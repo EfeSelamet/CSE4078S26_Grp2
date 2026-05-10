@@ -1,0 +1,2 @@
+﻿file,num_samples,rouge1,rouge2,rougeL,exact_match,token_f1,avg_prediction_words,avg_reference_words,suspicious_ratio,suspicious_count
+qwen_results.csv,40,0.24712252126401751,0.07538626597676548,0.15741628363558732,0.0,0.16506358114157238,135.75,54.625,0.6,24

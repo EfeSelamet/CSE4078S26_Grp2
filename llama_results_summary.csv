@@ -1,0 +1,2 @@
+﻿file,num_samples,rouge1,rouge2,rougeL,exact_match,token_f1,avg_prediction_words,avg_reference_words,suspicious_ratio,suspicious_count
+llama_results.csv,40,0.1695873798361834,0.05973784079080906,0.12873878743239953,0.0,0.13609540763859457,99.35,54.625,0.0,0
