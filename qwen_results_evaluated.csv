@@ -1,631 +1,735 @@
 ﻿id,model,question,reference,prediction,rouge1,rouge2,rougeL,exact_match,token_f1,prediction_word_count,reference_word_count,suspicious_flag
-0,Qwen2.5-1.5B-Instruct,"Anayasa madde 1'e göre, türkiye'nin devlet şekli nedir","Anayasa madde 1'e göre, türkiye'nin devlet şekli cumhuriyettir. bu madde, türkiye'nin yönetim biçiminin halkın egemenliğine dayandığını ve bu yönetim biçiminin cumhuriyet olduğunu belirler. cumhuriyet, halkın kendi kendini yönetme biçimi olarak kabul edilir ve türkiye cumhuriyeti'nin temel yönetim ilkesi olarak anayasal güvence altına alınmıştır.","Türkiye'nin devlet şeklidir genellikle Anayasada yer alır. Türkiye'de devletin temel özelliklerinden biri olarak, Anayasada ""Devlet"" adı altında anlaşılmaktadır.
+0,Qwen2.5-1.5B-Instruct,"Anayasa madde 1'e göre, türkiye'nin devlet şekli nedir","Anayasa madde 1'e göre, türkiye'nin devlet şekli cumhuriyettir. bu madde, türkiye'nin yönetim biçiminin halkın egemenliğine dayandığını ve bu yönetim biçiminin cumhuriyet olduğunu belirler. cumhuriyet, halkın kendi kendini yönetme biçimi olarak kabul edilir ve türkiye cumhuriyeti'nin temel yönetim ilkesi olarak anayasal güvence altına alınmıştır.","Türkiye'nin devlet şekli, Anayasada belirlenmiş ""Devlet Hakkı"" (Artık Anayasa Madde 1) tarafından tanımlanmıştır. Bu anlayışta, devlet, ""sosyal düzeni"", ""kültürün kurumunu"" ve ""hükümetin görevlerini"" yönetecek bir ""takviye"" olarak tanımlandığına göre değerlendirilmektedir.
 
-Devlet, halka açık ve halkın yasalara dayanıklı bir yapıdır. Bu yapının temel özellikleri arasında:
+Bu durumda, Türkiye'nin devlet sisteminin temel özelliklerinden biridir:
 
-1. Halkın hakları: Devlet, halka açık bir şekilde haklara sahiptir.
-2. Kral (Sultan): Devlet'in başkalarına ve halka açık bir şekilde yasalara dayanıklı bir yöneticidir.
-3. Parlamento: Devletin önemli sorunların çözümlerini ilgilendiren mekanlardır.
-4. Sivil yetkiler: Devletin yasalara dayanıklı bir şekilde görev yapmak için gereken yetkilerdir.
+1. Sosyal düzeni yönetimi: Devlet, halka yönelik politikalar ve yasalara dayalı yönetimdir.
+2. Kültürü yönetimi: Devlet, kültürünü savunarak koruyarak yönetmektedir.
+3. Hükümetin görevleri: Devlet, hükümetin yerine getiren ve hizmet eden kişilerle işbirliği yapmaktadır.
 
-Türkiye'nin devlet sisteminin tamamını ve her ayrıntısını belirtmek için, daha detaylı bir anayasaya başvurmanız önerilir.",0.26130653266331655,0.09137055837563451,0.15075376884422112,0,0.1958041958041958,92,43,1
-1,Qwen2.5-1.5B-Instruct,Anayasa madde 1'de belirtilen cumhuriyetin tanımı nedir,"Anayasa madde 1'de belirtilen cumhuriyet, halkın egemenliğinin temsilcileri aracılığıyla yönetildiği bir devlet şeklidir. cumhuriyet rejiminde, devlet başkanı ve diğer yöneticiler halk tarafından seçilir ve belirli bir süre için görev yaparlar. bu yönetim biçimi, monarşi gibi kalıtsal yönetim biçimlerine karşıdır ve halkın yönetime doğrudan katılımını sağlar.","Anayasa Madde 1, Türkiye Cumhuriyeti'nin tanımını temsil eder ve bu tanım, Türkiye Cumhuriyeti'nin doğuşunu, bütünlüğünü ve insan haklarını içeriyor.
+Bu nedenle, Türkiye'nin devlet sistemini anlamak için, sosyal düzeni yönetme, kültürel tutumu ve hükümetin görevleri gibi temel özellikleri gözden geçirmeniz gerekmektedir.",0.308411214953271,0.11320754716981131,0.18691588785046728,0,0.26760563380281693,92,43,0
+1,Qwen2.5-1.5B-Instruct,Anayasa madde 1'de belirtilen cumhuriyetin tanımı nedir,"Anayasa madde 1'de belirtilen cumhuriyet, halkın egemenliğinin temsilcileri aracılığıyla yönetildiği bir devlet şeklidir. cumhuriyet rejiminde, devlet başkanı ve diğer yöneticiler halk tarafından seçilir ve belirli bir süre için görev yaparlar. bu yönetim biçimi, monarşi gibi kalıtsal yönetim biçimlerine karşıdır ve halkın yönetime doğrudan katılımını sağlar.","Anayasa Madde 1, Cumhuriyet'in tanımını ve temel kurumlarını belirtmektedir. Bu anayasa, 1982 yılında Türk Cumhuriyeti'nin kuruluşuna göre yürürlüğe giren bu madde, Türk Cumhuriyeti'nin doğasını ve temeli üzerinde durmaktadır.
 
-Tanımda şunları içerecektir:
+Madde 1'nin ana temelleri şunlardır:
 
-1. Türkiye'nin doğuşu: Türkiye'nin 29 Ekim 1983 tarihinde kurulduğu.
-2. Türkiye'nin bütünlüğü: Türkiye'nin bütünlükünü korumak için genel kurumsal düzenlemeleri ve yasaları sunmak.
-3. İnsan hakları: İnsanların özgürlüğü, insan haklarının tutulduğu yasaları ve insan haklarının korunması amacıyla yarattığı düzenlemeleri içerir.
-4. İslam dininin önemi: İslam dininin önemi de anayasa madde 1'ün içerdiği önemli bir yönüdür.
+1. Cumhuriyetin tanımı: ""Türkiye Cumhuriyeti, Türkiye'yi yöneten ve düzenleyen devletin ve halkın, Türk Cumhuriyeti'nin tanımıdır.""
 
-Bu tanım, Türkiye'nin 1983 yılında kurulan devletin doğumu, bütünlüğünü ve insan haklarına olan saygıda bulunduğunu gösterir. Bu anayasa madde 1, Türkiye'nin hukuki yapısı ve değerleri hakkında önemli bilgi vermektedir.",0.20553359683794467,0.0398406374501992,0.11857707509881422,0,0.12195121951219512,105,45,0
-2,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, cumhuriyetin ilan edilmesini neden önemli görmüştür","Anayasa madde 1, cumhuriyetin ilan edilmesini, halkın egemenliğinin vurgulanması ve demokrasiye geçişin sağlanması açısından önemli görmüştür. cumhuriyetin ilanı, osmanlı i̇mparatorluğu'nun monarşik yönetim biçiminden demokratik bir yönetime geçişi simgeler. bu değişiklik, halkın kendi kaderini belirleme hakkını ve devletin halkın iradesi doğrultusunda yönetilmesi gerektiğini vurgular.","Anayasa madde 1, Türkiye Cumhuriyeti'nin kurulmasının temel hukuki yapısı olarak kabul edilen bir anayasal maddıdır. Bu madde, ülkenin varlığı, kuvvetlerinin kontrolü ve insan hakları gibi temel sorunların çözümünde önemli rol oynayan bir anaya sahiptir.
+2. Temel Kurumları:
+   - Başbakan Yardımcısı: Başbakanın yardımcıesidir.
+   - Başbakan: Cumhuriyetin başkanıdır.
+   - Bakanlar: Cumhuriyetin kurumların kurucularıdır.
+   - Kral: Cumhuriyetin başkenti olan Ankara'nın kralıdır.
+   - Sükûnet Kurulu: Cumhuriyetin ekonomik politikalarını yönetme yetkisine sahip bir kurumdur.
 
-İlanetleme, Türkiye'nin cumhuriyeti kurulumu sürecindeki temel aşamadır. Bu süreç, ülkedeki tüm sosyal ve politik sistemleri düzenlemek için gerekli olan ilk bir hukuki kuralların kurulmasıdır. İlana gelen bilgiler genellikle şu konulara odaklanır:
+3. Cumhuriyet'in ilk seçimlerini tattığı zamanı: 25 Ekim 1980'tür.
 
-1. Ülkedeki toplumun temel değerleri (kamu, sivil, siyaset)
-2. Ülkenin politik kuralları
-3. İnsan haklarına dayanan yetkililerin rolünü belirleyen anayasalar
-4. Ulusal güvenliği ve güvenlik düzeni
+4. Cumhuriyet'in ilk seçimleri sonucuyla yapılan ilk devrimdeki sonuçlar: Cumhurbaşkanı Necip Arda (Adalet Partisi), Başbakan Mehmet Ali Çavuşoğlu (Cumhuriyet Halk Partisi) ve Başbakan Yardımcısı Ahmet Şahin (Adalet Partisi).
 
-Bu süreç, ülkenin sosyal sisteminin ve siyosentimize dair önemli kararlar vermektedir. Anayasa madde 1, bu kararlar doğrultusunda olumlu bir şekilde devralı olmalıdır. Başka bir deyişle, ilan edilen bilgilerin kesinlikle doğru ve doğru bir şekilde uygulanması gerekmektedir.",0.23529411764705882,0.03389830508474576,0.15126050420168066,0,0.12429378531073446,127,43,1
-3,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, cumhuriyetin hangi tarihte ilan edildiğini belirtir mi","Anayasa madde 1, türkiye cumhuriyeti'nin 29 ekim 1923 tarihinde ilan edildiğini belirtir. bu tarih, türkiye'nin modernleşme sürecinde önemli bir dönüm noktasıdır ve her yıl cumhuriyet bayramı olarak kutlanır. 29 ekim 1923, mustafa kemal atatürk'ün önderliğinde türkiye'nin bağımsızlık mücadelesinin zaferle sonuçlanmasının ve yeni bir devlet düzeninin kurulmasının simgesidir.",Anayasa madde 1'in cumhuriyetin ne tarihinde ilan edildiği hakkında bilgi veremiyorum. Bu konuda doğrudan bilgiye erişimim yoktur ve bu konu hakkında daha fazla bilgi almak için lütfen uygun kaynaklardan ulaşmayı tercih edebilirsiniz.,0.15517241379310345,0.07017543859649122,0.15517241379310345,0,0.16666666666666669,32,47,0
-4,Qwen2.5-1.5B-Instruct,"Anayasa madde 1'e göre, cumhuriyetin temel özellikleri nelerdir","Anayasa madde 1'e göre, cumhuriyetin temel özellikleri halk egemenliği, demokrasi, hukuk devleti ve laikliktir. halk egemenliği, yönetim yetkisinin doğrudan veya dolaylı olarak halka ait olduğunu ifade eder. demokrasi, halkın yönetime katılımını ve yönetim yetkisinin seçimle belirlenmesini sağlar. hukuk devleti, tüm devlet faaliyetlerinin hukuk kurallarına uygun olarak yürütülmesini ve yargı denetimine açık olmasını ifade eder. laiklik, din ve devlet işlerinin birbirinden ayrılmasını ve devletin tüm inançlara eşit mesafede durmasını sağlar.","Anayasa Madde 1'nin temel özellikleri şunlardır:
+Bu anayasa, Türk Cumhuriyeti'nin temel kurumlarını ve temel kuralları tanıtmaya yönelik bir yapıdır.",0.24285714285714288,0.06474820143884892,0.12142857142857144,0,0.14054054054054055,133,45,0
+2,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, cumhuriyetin ilan edilmesini neden önemli görmüştür","Anayasa madde 1, cumhuriyetin ilan edilmesini, halkın egemenliğinin vurgulanması ve demokrasiye geçişin sağlanması açısından önemli görmüştür. cumhuriyetin ilanı, osmanlı i̇mparatorluğu'nun monarşik yönetim biçiminden demokratik bir yönetime geçişi simgeler. bu değişiklik, halkın kendi kaderini belirleme hakkını ve devletin halkın iradesi doğrultusunda yönetilmesi gerektiğini vurgular.","Anayasa madde 1'nin cumhuriyetin ilan edilmesi, Türkiye'de önemli bir hukuki öneme sahiptir çünkü:
 
-1. Cumhuriyetin doğası: ""Kanunlar, toplumun değerlerini ve haklarını koruyacak ve bu değerleri güçlendirecek.""
+1. Yeni bir anayasaya geçiş: Bu anayasa, Türkiye Cumhuriyetinin yeni bir ana yasası olarak tanımlandı ve cumhuriyetin ilk anayasasını temsil etmektedir.
 
-2. Temel hukuki principları:
-   - Dış politikaların kendi hukuka uygun olmayışı (Düzenleme Principusu)
-   - Hükümetin hukuki görevlerinin sınırlarına sahip olması (Hükümetin Hukuki Güvenliği Principusu)
-   - Hükümetin hukuki görevlerinin temel güvence alması (Temel Hükümetin Hukuki Güvenliği Principusu)
+2. Ulusal değerler korumak için: Anayasa, ülkenin ulusal değerlerini korumayı amaçlayan ana yasalar içermektedir.
 
-3. Kariyer kurumu: ""Kariyer kurumu, kamuoyu, devletin kamuoyunu yönetmek üzere oluşturulan kuruluştır.""
+3. Kalkınma ve reform sürecinde kullanılabilir: İller ve eyalette kalkışanlar tarafından kullanılmaktadır.
 
-4. Toplumsal hukuk: ""Toplumsal hukuk, toplumun değerlerini ve haklarını koruyacak ve bu değerleri güçlendirecek kanunlardır.""
+4. Hükümetin kurumsal düzenlemeleriyle uyulması gereklidir: Bu yasaya göre hareket ettikçe, hükümetin düzenlemelerini kurumsal bir yapısına dönüştürülebilir.
 
-5. Yurtdışı politikalar: ""Yurtdış politikalar, dış politika ve dış ilişkileri yönetmek üzere oluşturulan kuruluştır.""
+5. Tarihsel bağlamda önem taşımaktadır: Bu anayasa, Türkiye'nin tarih boyunca yaşanan birçok değişimin bir parçasıdır.
 
-6. Mesele ve maddi yasalar: ""Mesele ve maddi yasalar, insan haklarının yer aldığı ve bunların uygulandığı kanunlardır.""
+6. Sosyal politika ve sosyal hukuku açısından önemlidir: Çoğunlukla, vatandaşların yaşam koşullarını düzenleyen yasalar içerir.
 
-7. Hükümetin temel hukuki görevleri: 
-   - Sosyal güvenlik
-   - Güçlü sosyal ve ekonomik düzen
-   - Devletin toplumunun güvenliğini sağlamak
+7. Küreselleşme ve uluslararası ilişkiler açısından önemli: Birleşmiş Milletler gibi uluslararası entegrasyon sürecindeki rolünü taklit eder.
 
-8. Hükümetin temel hukuki görevleri:
-   - Toptan haklı olmak
-   - Kullanıcıların haklarına saygı göstermek
-   - Topluma mutlu bir toplum haline getirmek
+8. Uluslararası hukuk uyumluluğu açısından önemlidir: Türkiye'nin uluslararası işbirliği ve anlaşmazlıklarını çözmeye yardımcı olur.
 
-9. Devletin temel hukuki görevleri: 
-   - Toplumba hizmet etmek
-   - Toplumun değerlerini korumak
-   - Toplumun güvenliğini sağlamak
+9. Eğitim ve bilgi sağlamak amacıyla kullanılabilir: Örneğin, vatandaşların anayasada belirlenen hakları anlamak için.
 
-Bu özellikler, Cumhuriyet'in genel yapısını ve hukukunu temsil eder.",0.22023809523809526,0.02395209580838323,0.125,0,0.13389121338912133,179,69,0
-5,Qwen2.5-1.5B-Instruct,Anayasa madde 1'de cumhuriyetin tercih edilme nedeni nedir,"Anayasa madde 1'de cumhuriyetin tercih edilme nedeni, halkın iradesinin en üst düzeyde temsil edilmesi ve yönetimde halkın söz sahibi olmasıdır. cumhuriyet rejimi, monarşi ve oligarşi gibi yönetim biçimlerine alternatif olarak halkın katılımını ve temsilini esas alır. bu nedenle, cumhuriyet yönetimi, demokrasinin uygulanmasını ve halkın yönetime doğrudan veya temsilcileri aracılığıyla katılmasını sağlar.","Anayasa Madde 1, Cumhuriyetin tercih edilen kurumlar ve kuruluşların tanımıdır. Bu anayasada, Cumhuriyet'in tercih ettiği kuruluşları ve kurumları belirtmektedir. İşte bu madde'ın ana nedenleri:
+10. Uluslararası hukuka uygun bir düzenlemeyi sağlayarak, ülkeler arasındaki etik ve hukuki iletişimi güçlendirir.
 
-1. Yurtdışı ilişkiler: Anayasa, ülkenin uluslararası ilişkilerini yönetmesinde yardımcı olur.
+Bu nedenlerden dolayı, anayasa madde 1'nin cumhuriyetin ilan edilmesi, Türkiye'deki hukuki ve sosyal reform sürecinde önemli bir öneme sahiptir.",0.18497109826589594,0.06395348837209303,0.12138728323699423,0,0.11016949152542373,184,43,1
+3,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, cumhuriyetin hangi tarihte ilan edildiğini belirtir mi","Anayasa madde 1, türkiye cumhuriyeti'nin 29 ekim 1923 tarihinde ilan edildiğini belirtir. bu tarih, türkiye'nin modernleşme sürecinde önemli bir dönüm noktasıdır ve her yıl cumhuriyet bayramı olarak kutlanır. 29 ekim 1923, mustafa kemal atatürk'ün önderliğinde türkiye'nin bağımsızlık mücadelesinin zaferle sonuçlanmasının ve yeni bir devlet düzeninin kurulmasının simgesidir.","Türkiye'nin Anayasası Madde 1'ü, Cumhuriyet'in kurulmasından 5 yıl önce (1923) ilan edilmiştir. Bu madde, Türkiye Cumhuriyeti'nin ilk anayasasını temsil etmektedir.",0.32692307692307687,0.1372549019607843,0.19230769230769232,0,0.31999999999999995,20,47,0
+4,Qwen2.5-1.5B-Instruct,"Anayasa madde 1'e göre, cumhuriyetin temel özellikleri nelerdir","Anayasa madde 1'e göre, cumhuriyetin temel özellikleri halk egemenliği, demokrasi, hukuk devleti ve laikliktir. halk egemenliği, yönetim yetkisinin doğrudan veya dolaylı olarak halka ait olduğunu ifade eder. demokrasi, halkın yönetime katılımını ve yönetim yetkisinin seçimle belirlenmesini sağlar. hukuk devleti, tüm devlet faaliyetlerinin hukuk kurallarına uygun olarak yürütülmesini ve yargı denetimine açık olmasını ifade eder. laiklik, din ve devlet işlerinin birbirinden ayrılmasını ve devletin tüm inançlara eşit mesafede durmasını sağlar.","Anayasa Madde 1'nin temel özellikler şunlardır:
 
-2. Sosyal politikalar: Anayasa, vatandaşların sosyal haklarını koruyarak ülkedeki sivil demokratik yaşamlarını destekler.
+1. Cumhuriyetin genel değerleri: Cumhuriyetin temel değerleri, demokratik, sosyal ve kendi kurumları olan devletin yasalarını oluşturur.
 
-3. Ulusal çıkarlar: Anayasa, ulusal çıkarları ve anlaşmazlıkları düzenlemek için kullanılır.
+2. Anayasada en temel kurumlardan biri: Devletin temel kurumu, ülkenin politik, ekonomik ve sosyal yaşamı üzerindeki etkilerini belirler.
 
-4. Tarih ve etnik gruplar: Anayasa, ulusal hakları ve tarihin temel kavramlarını savunmak için kullanılır.
+3. Anayasada en temel kurumlardan biri: Uluslararası ilişkilerle ilgili yasalara olan anlayışlar ve düzenlemeleri belirtir.
 
-5. Hükümet yetkilileri: Anayasa, ulusal hükümetin görevlerini belirleyerek yönetimi düzenler.
+4. Anayasada en temel kurumlardan biri: Uluslararası toplumsal hizmetleri ve işbirliği düzenlemeleri içerir.
 
-6. Uluslararası entegrasyon: Anayasa, ülkenin uluslararası entegrasyonunu sağlayarak globalizmayı destekler.
+5. Anayasada en temel kurumlardan biri: Uluslararası güvenlik ve döviz sistemi gibi önemli toplumsal sistemlerin kurallarını belirtir.
 
-7. Uluslararası yasalara uygun: Anayasa, Uluslararası Hanedanın (OIC) gereksinimlerine uygun olarak tasarlanmıştır.
+6. Anayasada en temel kurumlardan biri: Uluslararası sağlık ve sağlık maddelerinin belirlenmesi konusundaki yasalara yer verir.
 
-Bu nedenlerle, Anayasa Madde 1, ülkenin genel kurumlar ve kuruluşları belirleyen önemli bir anayasadır.",0.27615062761506276,0.050632911392405056,0.1924686192468619,0,0.14942528735632182,119,51,0
-6,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, cumhuriyetin devamlılığını nasıl güvence altına alır","Anayasa madde 1, cumhuriyetin devamlılığını anayasal güvence altına alarak ve değiştirilemez kılarak sağlar. anayasanın bu hükmü, cumhuriyet yönetim biçiminin değiştirilemeyeceğini ve bu konuda herhangi bir teklifin dahi yapılamayacağını belirtir. bu hüküm, cumhuriyetin temel ilkelerinin korunmasını ve türkiye'nin demokratik yapısının sürekliliğini temin eder.","Anayasa Madde 1, Cumhuriyet'in devamlılığını sağlayacak şekilde anayasal kurallarını ve yasalarını belirleyen önemli bir anayasal mekanizmasıdır. Bu anayasal mekanizma, ülkenin temel değerlerini korumak ve yerine getirmek için çeşitli yollarla hareket eder:
+7. Anayasada en temel kurumlardan biri: Uluslararası turistik ve spor maddelerinin belirlenmesi konusundaki yasalara yer verir.
 
-1. Anayasal reformlar: Mevcut anayasal düzeni değiştirerek yeni yasaları ve düzenleri oluşturur.
+8. Anayasada en temel kurumlardan biri: Uluslararası hukuki ve güvende bir şekilde hukuk uygulamalarının belirlenmesi konusunda yasalara yer verir.
 
-2. Devam etme politikası: Ülkeler genellikle anayasal düzeninin devamını sağlamakta bulunur.
+9. Anayasada en temel kurumlardan biri: Uluslararası ekonomik maddelerin belirlenmesi konusunda yasalara yer verir.
 
-3. Yeni yasalar: Uzun süreli bir anayasal düzeni korumak için yeni yasalar üretmek.
+10. Anayasada en temel kurumlardan biri: Uluslararası eğitim ve öğrenme maddelerinin belirlenmesi konusunda yasalara yer verir.
 
-4. Dışişleri politikaları: Uluslararası yasaları takip etmek veya uygulama yapmak.
+Bu özellikler, cumhuriyetin temel olarak yasa yapısı ve değerlerini ifade eder.",0.2046204620462046,0.026578073089700997,0.10561056105610561,0,0.12096774193548386,177,69,0
+5,Qwen2.5-1.5B-Instruct,Anayasa madde 1'de cumhuriyetin tercih edilme nedeni nedir,"Anayasa madde 1'de cumhuriyetin tercih edilme nedeni, halkın iradesinin en üst düzeyde temsil edilmesi ve yönetimde halkın söz sahibi olmasıdır. cumhuriyet rejimi, monarşi ve oligarşi gibi yönetim biçimlerine alternatif olarak halkın katılımını ve temsilini esas alır. bu nedenle, cumhuriyet yönetimi, demokrasinin uygulanmasını ve halkın yönetime doğrudan veya temsilcileri aracılığıyla katılmasını sağlar.","Anayasa Madde 1, Türkiye Cumhurbaşkanı'nın (TBMM) mevkidağı ve Cumhuriyetin kurucusu Abdullah Öcalan'ın, Türkiye'yi bir cumhuriyet olarak tanımlamasının temel kavramlarıdır. Bu anlayışın anaçlarından bazıları şunlardır:
 
-5. Eğitim: Gençlik döneminden başlayarak anayasal düzeni öğretmek.
+1. Sosyal demokratik共和anism: Anayasa Madde 1'nin temeli, Türkiye'nin sosyal demokratik bir cumhuriyet olabileceğini vurgulamaktadır.
 
-6. Güvenlik politikaları: Saf bir ortam sağlamak için güvenlik politikaları uygular.
+2. İktidara karşı savunma: Anayasa Madde 1, İslam kültürüne karşı olan TBMM'ye karşı savunmaktadır.
 
-7. Hükümet: Genellikle mevkidaşı olarak görev eden özel yetkililerin kontrolünü gösterir.
+3. Küreselleştirme ve modernleşme: Türkiye'nin dünya genelinde yer alması ve uluslararası kurallara uyum sağlaması için önlenmesini teşvik etmektedir.
 
-8. Hukuki sistem: Sosyal ve ekonomik durumları değerlendirerek devamlılık için gereksinimler sunar.
+4. Güvenlik ve barışı sağlama: Türkiye'nin güvenlik güçlendirmesi ve barışı sağlamak adına öncülük edilmesini önermektedir.
 
-9. Demokratik kurumsal stratejiler: Hükümetin hukuki ve sosyal stratejileri uygulaması.
+5. Yargılaşma ve dialog: TBMM'ye göre, Türkiye'nin çoğularda yargılaşma ve dialog sürecine açıkça katılmakta olduğunu vurgular.
 
-10. Ulusal politika: Uluslararası ilişkileri yönetmek için hukuki kuralları takip etmek.
+6. Demokrasi ve istihbarat: Türkiye'nin demokratik bir cumhuriyet olmasına yönelik önerilerdir.
 
-Bu anayasal mekanizmalar, ülkenin sürdürülebilirliği, barışçıl olma ve sürekli gelişimi üzerinde etkili olabilir. Ancak, bu süreçlerde de riskler vardır ve bazı ülkeler genellikle bu riskleri önleyebilir veya önlemeye çalışırlar.",0.2364864864864865,0.04761904761904762,0.14189189189189189,0,0.15023474178403756,169,42,1
-7,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, devletin şekliyle ilgili başka hangi detayları içerir","Anayasa madde 1, devletin şekli olarak sadece cumhuriyetin kabul edildiğini ve bu şeklin değiştirilemeyeceğini içerir. bu madde, cumhuriyetin türkiye'nin devlet yapısının temel bir unsuru olduğunu ve bu yönetim biçiminin anayasal koruma altında olduğunu vurgular. ayrıca, bu hüküm, cumhuriyetin sürekli olarak korunması ve yaşatılması gerektiğini ifade eder.","Anayasa Madde 1, devletin şekliyle ilgili belirlenen temel kurallar ve gereksinimler arasında birçok detay bulunmaktadır. İşte bazı örneklere:
+Bu anlayışın sonucunda, TBMM'ye göre Türkiye'nin özgürleşmesi, sosyal demokratik bir cumhuriyetle başa çıkmadan mümkün değil. Bu nedenle, TBMM'ye göre Türkiye'nin cumhuriyet olarak tanımlandığı bir durum olmalıdır.",0.23255813953488375,0.033444816053511704,0.12624584717607973,0,0.12560386473429952,138,51,0
+6,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, cumhuriyetin devamlılığını nasıl güvence altına alır","Anayasa madde 1, cumhuriyetin devamlılığını anayasal güvence altına alarak ve değiştirilemez kılarak sağlar. anayasanın bu hükmü, cumhuriyet yönetim biçiminin değiştirilemeyeceğini ve bu konuda herhangi bir teklifin dahi yapılamayacağını belirtir. bu hüküm, cumhuriyetin temel ilkelerinin korunmasını ve türkiye'nin demokratik yapısının sürekliliğini temin eder.","Anayasa madde 1'nin cumhuriyetin devamlılığını güvence altına alması, özellikle Türkiye'nin cumhuriyetçiliği ve demokratik hale getirilmesi için önemlidir. Bu madde, genellikle şu noktaları kapsar:
 
-1. Devletin temel yetkilileri (eşitlik, seçim, yasalara dayanıklı)
-2. Devletin temel yetkileri (yapılandırma, yönetimi, sorumluluklar)
-3. Temel devlet politikaları (ödüller, maliyetler, sosyal haklar)
-4. Devletin temel politik stratejileri (hükümetin temel görevleri, yönetim sistemi)
-5. Devletin temel finansal sistemini (maliye, para, vergi, kredi)
-6. Temel devlet politikası (çevre, sağlık, eğitim, eğitim)
-7. Temel devlet politikası (sosyal güvenlik, güvenliği, sivilisasyon)
-8. Temel devlet politikası (işbirliği, işbirliği politikası)
+1. Yeni bir cumhuriyetin temel kurumları:
+   - Birleşmiş Milletler
+   - Cumhurbaşkanlığı
+   - Parlamento (Türkiye'de parlamentodan)
+   - Devlet başkanlık
 
-Bu genel bir listede, devletin temel yetkilileri, yetkileri ve temel politikaları hakkında bilgi vermektedir. Ancak bu nedenle, Anayasa Madde 1'in tüm ayrıntılı içeriği ve değişiklikleri için, mevcut anayasayı ve devlet kurumunun güncel düzenlemelerini kontrol etmeniz önemlidir.",0.22222222222222224,0.05381165919282511,0.12444444444444444,0,0.16666666666666669,119,46,0
-8,Qwen2.5-1.5B-Instruct,Anayasa madde 1'de cumhuriyetin ilanıyla ilgili hangi tarihi olaylar belirtilmiştir,"Anayasa madde 1'de cumhuriyetin ilanıyla ilgili olarak 29 ekim 1923 tarihinde türkiye büyük millet meclisi tarafından ilan edilmesi belirtilmiştir. bu tarih, türkiye cumhuriyeti'nin resmen kurulduğu ve osmanlı i̇mparatorluğu'nun sona erdiği tarihtir. cumhuriyetin ilanı, kurtuluş savaşı'nın zaferle sonuçlanmasının ardından, türkiye'nin yeni bir devlet düzeni ve modern bir yönetim biçimi benimsemesinin bir sonucu olarak gerçekleşmiştir.","Anayasa Madde 1, Türkiye Cumhuriyetinin kurucusu ve ilk Başbakan Mustafa Kemal Atatürk'nun ülkenin anayasasını oluşturmaya yönelik bir mevzuat olarak tanınır. Bu anayasa, Türkiye'yi 1923 yılında yeni bir cumhuriyetle tanıttı.
+2. Demokrasiye yolculuğunun önlenmesi:
+   - Anayasada demokratik yolsuzluklar (yani ""yolcu"") belirlenmesi gerekiyor.
 
-Bu anayasa, Türkiye'ye göre, Türkiye'nin kendi anayasası ve değerleriyle birlikte birleştiğini vurgulamaktadır. Ancak, bu anayasa ile ilgili önemli olaylar ve durumlar genellikle şu şekildedir:
+3. Hükümetin kontrolü:
+   - Ulusal hükümetin seçimleri ve yetkilendirme kuralları belirlenmesi.
+   - Uluslararası tutumu ve politikaları kontrol edilebilir.
 
-1. 1924 - Anayasa İdare Komitesi kurulması: 10 Ocak 1924'te, Atatürk, Türkiye'nin yeni bir anayasasının kurulmasını savunan ve bu anayasa'nın bir parçası olan idare komisyonunu kurmuştur.
+4. Sosyal ve ekonomik güvenlik:
+   - Uluslararası güvenliği koruma stratejilerinin belirlenmesi.
+   - Ekonomik istikrarı sağlamak için uygulanan politika.
 
-2. 1925 - Anayasa İdare Komitesi Genel Sekreterliği: 17 Temmuz 1925'te, idare komiseri seçildi ve Atatürk, onunla ilgili bazı önemli ifadeler verdi.
+5. Tarihsel bütçe:
+   - Ülkede sürdürülebilir bütçe düzenlemesi.
 
-3. 1926 - Anayasa İdare Komitesi Koleksiyonu: 15 Nisan 1926'te, idare komisyonunun koleksiyonunu tamamlanmıştır.
+6. Güvenlik ve barış:
+   - Uluslararası barış stratejilerinin belirlenmesi.
+   - Uluslararası barışı savunma politikası.
 
-4. 1927 - Anayasa İdare Komitesi Baskısı: 1 Ocak 1927'te, idare komisyonunun çalışmaları bir kitap haline gelmiş ve ""Türkiye'nin Anayasası"" adlı isimli bir anayasa bilgisi kitabı olarak yayınlanmıştır.
+7. Kalkınma strateji:
+   - Uluslararası kalkınma stratejilerinin belirlenmesi.
+   - Uluslararası kalkınma politikası.
 
-5. 1928 - Anayasa İdare Komitesi Sonraki Çalışmaları: 18 Mart 1928'te, idare komisyonunun çalışmaları sona ermiştir.
+Bu durum, Türkiye'nin yeni bir cumhuriyeti için temel bir anayasal yapısı oluşturmakla ilgilidir. Anayasa, bu bir cumhuriyetin siyasının ve sosyal yaşamını yönetmek için gerekli olan bir temel kurum olduğunu gösterir.",0.31538461538461543,0.11627906976744186,0.19999999999999998,0,0.21505376344086022,153,42,1
+7,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, devletin şekliyle ilgili başka hangi detayları içerir","Anayasa madde 1, devletin şekli olarak sadece cumhuriyetin kabul edildiğini ve bu şeklin değiştirilemeyeceğini içerir. bu madde, cumhuriyetin türkiye'nin devlet yapısının temel bir unsuru olduğunu ve bu yönetim biçiminin anayasal koruma altında olduğunu vurgular. ayrıca, bu hüküm, cumhuriyetin sürekli olarak korunması ve yaşatılması gerektiğini ifade eder.","Anayasa Madde 1, devletin şekli hakkında belirli bir anayasal düzeni ve kurallar sunar. Bu anayasal düzen, genellikle bir devletin stratejik hedeflerini yerine getirmek için gereken tüm önemli faktörlere atıfta bulunur. Ancak, bu anayasal düzen, genel olarak şu ana kadar belirlenmiş temel özelliklere dayanır:
 
-6. 1929 - Anayasa İdare Komitesi Öncülükü: 15 Haziran 1929'te, idare komisyonunun çalışmaları bir tören haline gelmiş ve ""Türkiye'nin Anayasası""",0.225,0.06289308176100629,0.15,0,0.1825396825396825,179,53,1
-9,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, devletin şekliyle ilgili hangi kuralları ortaya koyar","Anayasa madde 1, devletin şeklinin cumhuriyet olduğunu, bu şeklin değiştirilemeyeceğini ve değiştirilmesinin teklif dahi edilemeyeceğini ortaya koyar. bu madde, türkiye'nin yönetim biçimi olarak cumhuriyetin mutlak ve değişmez olduğunu vurgular. ayrıca, bu hüküm, cumhuriyetin korunması ve devamlılığının sağlanması için anayasal bir güvence sağlar.","Anayasa Madde 1, devletin şekliyle ilgili şu kurallara dayanır:
+1. Hükümetin yapısını açıkça ifade etmektedir.
+
+2. Genel yönetim kurumlarının (genel hükümet, parlamento vb.) temel rolünü belirtmektedir.
+
+3. Devletin işlevsel yapısı ve rolünü açıklamaktadır.
+
+4. Anayasada genel yönetim kurumların nasıl seçilip terk edilmesi, görevleri, görevleri yerine getirenlerin tanımaları gibi konularda belirtilmiştir.
+
+5. Devletin finansal düzenini açıkça tanımlarken, finansal sistemin nasıl oluşturulup yönetildiği hakkında bilgi vermektedir.
+
+6. Devletin hizmete gelen kişilere (yani tesisatçılar) temel rolünü ve yetkilarını açıklamaktadır.
+
+7. Anayasada devletin kalkınma ve kurtarma politikasına ilişkin temel kuralları ve öneme sahip olabilecek diğer özel kurumlara ait temel kurallar da belirtilmiştir.
+
+8. Anayasada genel yönetim kurumların işbirliği ve temsilinin temel kuralları belirlenmiştir.
+
+Bu sayede, devletin temel kurallarını ve rolünü açıkça ifade etmeyi amaçlayan Anayasa Madde 1, devletin nasıl kurulduğu ve çalıştığı konusunda önemli bir anlatım sağlıyor.",0.20983606557377046,0.05940594059405941,0.13770491803278687,0,0.16822429906542058,167,46,1
+8,Qwen2.5-1.5B-Instruct,Anayasa madde 1'de cumhuriyetin ilanıyla ilgili hangi tarihi olaylar belirtilmiştir,"Anayasa madde 1'de cumhuriyetin ilanıyla ilgili olarak 29 ekim 1923 tarihinde türkiye büyük millet meclisi tarafından ilan edilmesi belirtilmiştir. bu tarih, türkiye cumhuriyeti'nin resmen kurulduğu ve osmanlı i̇mparatorluğu'nun sona erdiği tarihtir. cumhuriyetin ilanı, kurtuluş savaşı'nın zaferle sonuçlanmasının ardından, türkiye'nin yeni bir devlet düzeni ve modern bir yönetim biçimi benimsemesinin bir sonucu olarak gerçekleşmiştir.","Anayasa Madde 1, Türkiye Cumhuriyetinin kurucusu Mustafa Kemal Atatürk'in ilanıdır. Bu anayasa, Türkiye'nin siyasi ve sosyal düzenini temellendirerek kurulmuştur. 
+
+Bu anayasa, Türkiye'yi cumhuriyet olarak tanıtmakla birlikte, genel olarak ""cumhuriyetin kurucusu"" veya ""ilançının"" anlamına gelir.
+
+Madde 1'ün belirlenen tarihler şunlardır:
+
+1. Çarşamba günü (29 Nisan) 1923'te, Mustafa Kemal Atatürk, Türkiye'nin ilk cumhuriyeti olan Türkiye Büyük Emirsadiyen'in kurulumuna katkıda bulunmuştur.
+   
+2. Atatürk, bu tarihin sonunda Türkiye'nin cumhuriyet olmasa da, Türkiye'nin sosyal ve ekonomik yapılarını tamamlamak için devam etmektedir.
+
+3. Bu tarihteki anayasada, cumhuriyetin kurucusu olarak ataturk'un adı geçerli.
+
+4. Ancak, Anayasa Madde 1, sadece 1923 yılında kurulan cumhuriyetin anayasasıdır ve bu tarih, Türkiye'nin modernleşme sürecinden önceki mevcut sistemlerden kaynaklanmıştır.
+
+5. Bu tarihte, Türkiye'nin anayasası, İslam ordusu tarafından yönetilen bir devlet olduğunu gösteren bir anaya sahip değildi ve İslam ordusu'nun kontrolünü eleştirmekle birlikte, Türkiye'nin modernleşmesine yönelik bir adım olarak görülür.
+
+Sonuç olarak, Anayasa Madde 1, Türkiye'nin cumhuriyetin kurucusu olarak ataturk'un ilanını ifade ederken, aynı zamanda Türkiye'nin sosyal ve ekonomik yapılarının tamamlanması amacıyla devam ettiğinde de belirtildiği gibi, 1923'te gerçekleşmiş bir tarihe sahiptir.",0.2934131736526946,0.10240963855421686,0.18562874251497005,0,0.2258064516129032,169,53,1
+9,Qwen2.5-1.5B-Instruct,"Anayasa madde 1, devletin şekliyle ilgili hangi kuralları ortaya koyar","Anayasa madde 1, devletin şeklinin cumhuriyet olduğunu, bu şeklin değiştirilemeyeceğini ve değiştirilmesinin teklif dahi edilemeyeceğini ortaya koyar. bu madde, türkiye'nin yönetim biçimi olarak cumhuriyetin mutlak ve değişmez olduğunu vurgular. ayrıca, bu hüküm, cumhuriyetin korunması ve devamlılığının sağlanması için anayasal bir güvence sağlar.","Anayasa Madde 1, devletin şekliyle ilgili birçok önemli kuralları ve gereksinimleri belirlemektedir. İşte bu kurallar:
 
 1. Devletin temel özellikleri:
-   - Devletin başkentinde yer alması
-   - Şirketlerin (hükümetlerin) devletin temel kurumları olmaması
-   - Şirketlerin (hükümetlerin) devletin temel kurumları olmaları
+   - Devletin temel özellikleri ve görevlerini tanımlamakla başlayarak, devletin nasıl oluşturulacağına karar vermektedir.
+   - Bu özellikler, devletin temel değerlerine (örneğin, yasalara, politikalarına) ulaşma konusuna dair önemini vurgular.
 
-2. Devletin temel kurumu:
-   - Devletin temel kurumu, devletin temel kurumlardan biridir ve devletin temel kurumlarından ayrılmaz.
-   - Bu kurum, devletin temel kurumlarından ayrılmadan da yetkilendirilir.
+2. Devletin yapısı:
+   - Devletin temel yapısını belirlemektedir, böylece devletin nasıl organizasyonunu ve rolünü hakkında bilgi sahibi olmak mümkün kılar.
 
-3. Temel kurumların sayısı:
-   - Devletin temel kurumlar sayısının en az iki olması gerekmektedir.
+3. Devletin üst düzey yetkilileri:
+   - Devletin üst düzey yetkilerinin temel özellikleri ve görevlerini belirlemektedir.
 
-4. Temel kurumların görevleri:
-   - Devletin temel kurumlarının görevleri, devletin temel kurumlarda bulunulmamalıdır.
+4. Devletin diğer önemli yetkileri:
+   - Devletin diğer önemli yetkilerinin temel özellikleri ve görevlerini belirlemektedir.
 
-5. Devletin temel kurumlarının sınırları:
-   - Devletin temel kurumlarının sınırları, devletin temel kurumlarda bulunmamalıdır.
+5. Devletin diğer temel görevleri:
+   - Devletin diğer temel görevlerinin temel özellikleri ve görevleri hakkında bilgi sahibi olmakta.
 
-6. Devletin temel kurumlarının etik düzenlemelerinin belirlenmesi:
-   - Devletin temel kurumlarının etik düzenlemelerinin belirlenmesi, devletin temel kurumlarda bulunmamalıdır.
+6. Devletin temel hukuki kuralları:
+   - Devletin temel hukuki kurallarının temeli, genellikle devletin temel kurallarını içerebilir.
 
-Bu kurallar, devletin temel kurumlarının yapısal yapısı ve rolü hakkında bilgi sağlar.",0.13793103448275862,0.05217391304347825,0.10344827586206895,0,0.11042944785276075,129,42,0
-10,Qwen2.5-1.5B-Instruct,"Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin temel nitelikleri nelerdir","Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin temel nitelikleri demokratik, laik, sosyal bir hukuk devleti olmasıdır. bu maddede belirtilen nitelikler, türkiye cumhuriyeti'nin yönetim biçiminin ve devlet yapısının temel ilkelerini oluşturur. demokratik devlet, halkın yönetime katılımını ve seçimle belirlenen temsilciler aracılığıyla yönetilmesini ifade eder. laik devlet, din ve devlet işlerinin ayrılmasını ve devletin tüm inançlara eşit mesafede durmasını sağlar. sosyal devlet, vatandaşlarının sosyal refahını artırmak için ekonomik ve sosyal politikalar uygular. hukuk devleti, tüm devlet faaliyetlerinin hukuk kurallarına uygun olarak yürütülmesini ve yargı denetimine açık olmasını sağlar.","Türkiye Cumhuriyeti'nin temel niteliklerine genellikle şu adımlar dahil edilir:
+7. Devletin temel düzenleyici yetkilileri:
+   - Devletin temel düzenleyicilerinin temel özellikleri ve görevlerini belirlemektedir.
 
-1. Türkiye'nin ilk mevkidaşı ve ülkesi olan Osmanlı İmparatorluğu'nun sonuna kadar olan dönemler.
+8. Devletin temel hukuki sistemi:
+   - Devletin temel hukuki sistemini tanımlamakla başlayarak, bu sistemin nasıl oluşacağını ve çalışacağını anlatmaktadır.
 
-2. 19. yüzyılın ortalarında kurulan Türkiye Büyük Millet Meclisi.
+Bu kurallar, devletin temel yapı, yetki ve görevleri hakkında bilgi sağlar ve devletin temel kurallarını açıklar.",0.16551724137931034,0.034722222222222224,0.12413793103448277,0,0.11214953271028037,179,42,1
+10,Qwen2.5-1.5B-Instruct,"Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin temel nitelikleri nelerdir","Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin temel nitelikleri demokratik, laik, sosyal bir hukuk devleti olmasıdır. bu maddede belirtilen nitelikler, türkiye cumhuriyeti'nin yönetim biçiminin ve devlet yapısının temel ilkelerini oluşturur. demokratik devlet, halkın yönetime katılımını ve seçimle belirlenen temsilciler aracılığıyla yönetilmesini ifade eder. laik devlet, din ve devlet işlerinin ayrılmasını ve devletin tüm inançlara eşit mesafede durmasını sağlar. sosyal devlet, vatandaşlarının sosyal refahını artırmak için ekonomik ve sosyal politikalar uygular. hukuk devleti, tüm devlet faaliyetlerinin hukuk kurallarına uygun olarak yürütülmesini ve yargı denetimine açık olmasını sağlar.","Türkiye Cumhuriyeti'nin temel nitelikleri şu şekildedir:
 
-3. 1920 yılında Türkiye'nin anayasasıyla başlayıp, 1947'de Anayasaya göre dönüştürüldüğü bir devlet.
+1. Yerel Tarihi: Türkiye, İslam Halk Devletleri'nin en eski ve en geniş bir ülkenin bir parçasıdır.
 
-4. İslam dünyasının önemli bir parçası olarak kabul edildiği bir cumhuriyet.
+2. Kültürel Ortaklık: İslam kültürü'nün en yaygın ve en etkin bir örneklerinden biridir.
 
-5. Müslüman halkı tarafından yönetilen bir cumhuriyet.
+3. Demokratik Birlik: Avrupa'dan, Batı'dan ve Balkanlar'dan birçok farklı kültür ve yetkili grup tarafından yönetilmektedir.
 
-6. Türkiye'nin uluslararası ilişkilerini etkin şekilde yöneten bir cumhuriyet.
+4. Sosyal Durum: Küçük toprakların büyük bir arazide yaşamaktadır.
 
-7. İslam dünyasına özgü yasal düzenlemeleri yerine Türkiye'nin yasal düzenlemelerini sunan bir cumhuriyet.
+5. Küresel Etkileşim: Doğu, Batı ve Güney Afrika ile güçlü ekonomik ilişkiler kurmuştur.
 
-8. İslam dünyasındaki kültürel, sosyal ve politik farklılıklarını barındıran bir cumhuriyet.
+6. Ülkemizdeki Dini Sınırlar: İslam dininin kuralları ve yasaları genellikle yerine koyulmamıştır.
 
-9. Türkiye'nin dört köy bölgesinin (Dokuzuncu Bölgesi) öne çıkmasına izin veren bir cumhuriyet.
+7. Sosyal ve Ekonomik Yapıları: Türkiye'nin sosyal ve ekonomik yapıları, İslam kültürü ve demokratik sistemiyle birlikte bulunmaktadır.
 
-Bu niteliklerin yanı sıra, Türkiye'nin daha geniş bir tarihi ve kültürel bağlamda da bulunmaktadır. Bu nedenle, Türkiye'nin temel nitelikleri de bu tarihsel ve kültürel faktörlerle de değerlendirilebilir.",0.27325581395348836,0.05263157894736842,0.1569767441860465,0,0.16101694915254236,134,85,1
-11,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, hangi ilkeleri türkiye cumhuriyeti'nin temel nitelikleri olarak tanımlar","Anayasa madde 2, insan haklarına saygılı, atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan bir devlet olarak tanımlar. i̇nsan haklarına saygılı devlet, vatandaşlarının temel hak ve özgürlüklerini korur ve bu hakların ihlal edilmesini engeller. atatürk milliyetçiliğine bağlı devlet, atatürk'ün ilke ve inkılaplarını benimser ve bu değerler doğrultusunda hareket eder. başlangıçta belirtilen temel ilkeler ise, devletin demokratik, laik, sosyal ve hukuk devleti niteliklerini ifade eder.","Türkiye Cumhuriyeti'nin Anayasa Madde 2'ünde, temel nitelikleri tanımlamak için kullanılan ilkeler şunlardır:
+8. İktisadi ve Sürekli Yaşama: Türkiye'nin ekonomisi, sürdürülebilir ve sürekli olarak büyüyen bir sistemdir.
 
-1. Özgürlük: ""Özgürlük"" kelimesinin anlamı olarak ""özgürlük"" (doluluk) ve ""özellik"" anlamına gelir.
+Bu nitelikler, Türkiye Cumhuriyeti'nin küreselleşme sürecinde önemli rol oynayan ve etkilendiği önemli faktörlerdir.",0.3180428134556575,0.08,0.1834862385321101,0,0.21739130434782608,128,85,1
+11,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, hangi ilkeleri türkiye cumhuriyeti'nin temel nitelikleri olarak tanımlar","Anayasa madde 2, insan haklarına saygılı, atatürk milliyetçiliğine bağlı, başlangıçta belirtilen temel ilkelere dayanan bir devlet olarak tanımlar. i̇nsan haklarına saygılı devlet, vatandaşlarının temel hak ve özgürlüklerini korur ve bu hakların ihlal edilmesini engeller. atatürk milliyetçiliğine bağlı devlet, atatürk'ün ilke ve inkılaplarını benimser ve bu değerler doğrultusunda hareket eder. başlangıçta belirtilen temel ilkeler ise, devletin demokratik, laik, sosyal ve hukuk devleti niteliklerini ifade eder.","Türkiye Cumhuriyeti'nin Anayasada ""Anayasa Madde 2"" adında bir anayasa mevzuatı bulunmaktadır. Bu anayasa, Türkiye'nin temel niteliklerini ve çıkarlarını belirlemek için oluşturulmuştur. İşte bu anayasa'nın temel nitelikleri:
 
-2. Yüceklilik: ""Yüceklilik"" kelimesinin anlamı olarak ""yücesi"" ve ""yükseliş"" anlamına gelir.
+1. Demokratik Sosyalist Hükümet: Türkiye'nin temel niteliği, demokratik sosyalist hukuki sistemiyle ilgili olanıdır.
 
-3. Hizmet: ""Hizmet"" kelimesinin anlamı olarak ""hizmet"", ""kullanım"" ve ""gerekli"" anlamına gelir.
+2. Özgürlük ve İnsan Hakları: İnsan haklarına saygı gösteren ve insan haklarının korunmasını sağlamak amacıyla oluşturulan bir anayasadır.
 
-4. Kaldırma: ""Kaldırma"" kelimesinin anlamı olarak ""kaldırma"", ""çıkış"" ve ""kalkmak"" anlamına gelir.
+3. Yargı ve Dürüstlik: Yargı kuralları ve dürüstlük yasaları genellikle bu anayasa'nın temel niteliğidir.
 
-Bu ilkeler genellikle Türkiye Cumhuriyeti'nin temel değerlerini ifade etmektedir. Örneğin, özgürlük, yüceklilik, hizmet ve kaldırma gibi değerler, insanların özgürlüğünü korumak, yaşamının değerli olmasını sağlamak, insanların gerekli olan her şeyi kullanmak ve bu gerekliliği yerine getirmek gibi etki alanında kullanılabilir. Bu ilkeler, vatandaşların temel hakları ve çıkarlarını belirtir ve bunlar, hükümet tarafından veya diğer düzenlemelere uygulanmalıdır.",0.2415094339622641,0.06844106463878327,0.13584905660377358,0,0.18579234972677594,114,64,1
-12,Qwen2.5-1.5B-Instruct,Anayasa madde 2'de belirtilen demokratik devletin özellikleri nelerdir,"Anayasa madde 2'de belirtilen demokratik devletin özellikleri, halkın yönetime katılımı, seçimler yoluyla temsil ve çoğulculuktur. demokratik devlet, vatandaşların yönetime doğrudan veya temsilcileri aracılığıyla katılmasını sağlar. seçimler, demokratik devletin en önemli unsurlarından biridir ve vatandaşların iradesini yansıtır. çoğulculuk, farklı görüşlerin ve düşüncelerin serbestçe ifade edilmesini ve temsil edilmesini sağlar. demokratik devlet, bu özellikleriyle vatandaşların siyasi haklarını korur ve yönetime katılımını teşvik eder.","Anayasa Madde 2'nin belirli demokratik devlet özelliklerini açıklayan paragraf şu şekildedir:
+4. Kalkınma ve Barış: Kalkınma ve barış yollarını destekleyen ve kalkınma yoluna doğru hareket etmek üzere tasarlanmıştır.
 
-""Demokratik devlet, halkı ve halkın seçkin adayıyla yönetilmelidir. Halkın seçkin adayı, halka bağlı olarak da ve halkın iddialarına saygı duyulmalıdır. Demokratik devlet, halkın hakları ve çıkarlarına saygı göstermelidir.""
+5. Güvenlik ve Safihane: Güvenlik politikalarına saygı göstererek ve güvenli bir ortamı sağlamak amacıyla tasarlanmıştır.
 
-Bu paragraf genellikle şunları ifade eder:
+6. Kültürel ve Etnik Özgürlük: Kültürel ve etnik hakların korunması ve güvende tutulması açısından belirlenen bir anayasadır.
 
-1. Devletin halkı ve halkın seçkin adayıyla yönetilmesi gereklidir.
-2. Halkın seçkin adayı, halka bağlı olarak da ve halkın iddialarına saygı göstermelidir.
-3. Devlet, halkın hakları ve çıkarlarına saygı göstermelidir.
+7. Ekonomik Ortaklık: Ekonomik ortaklık ve ekonomik yapısının düzenlenmesine yönelik bir anayasa.
 
-Bu özellikler, demokratik bir hükümetin temel özellikleri olarak kabul edilir ve insanların devletin yönetimiyle ilgisi olduğuna dair düşünme fırsatı sunar.",0.3508771929824562,0.04424778761061947,0.20175438596491227,0,0.26582278481012656,95,61,1
-13,Qwen2.5-1.5B-Instruct,"Anayasa madde 2'ye göre, sosyal devlet anlayışı neyi ifade eder","Anayasa madde 2'ye göre, sosyal devlet anlayışı, devletin vatandaşlarının sosyal refahını sağlamak için gerekli ekonomik ve sosyal politikaları uygulamasını ifade eder. sosyal devlet, vatandaşlarının temel ihtiyaçlarını karşılamayı ve yaşam standartlarını yükseltmeyi hedefler. bu anlayış, eğitim, sağlık, sosyal güvenlik ve istihdam gibi alanlarda devletin aktif rol almasını ve vatandaşlarının sosyal haklarını güvence altına almasını gerektirir. sosyal devlet, aynı zamanda sosyal adaleti ve eşitliği sağlamayı amaçlar.","Sosyal devlet anlayışı, anayasa madde 2'ün belirtilen anlayış kurallarını ve algoritmalarını içerir. Bu anlayış kuralları, sosyal ortamda kişinin haklarını korumak ve kişisel çıkarlarını korumak için kullanılır.
+Bu anayasa, Türkiye'nin temel niteliklerinin ve çıkarlarının genel bilgisi olarak kullanılmaktadır.",0.22641509433962265,0.0759493670886076,0.14465408805031446,0,0.21100917431192662,143,64,1
+12,Qwen2.5-1.5B-Instruct,Anayasa madde 2'de belirtilen demokratik devletin özellikleri nelerdir,"Anayasa madde 2'de belirtilen demokratik devletin özellikleri, halkın yönetime katılımı, seçimler yoluyla temsil ve çoğulculuktur. demokratik devlet, vatandaşların yönetime doğrudan veya temsilcileri aracılığıyla katılmasını sağlar. seçimler, demokratik devletin en önemli unsurlarından biridir ve vatandaşların iradesini yansıtır. çoğulculuk, farklı görüşlerin ve düşüncelerin serbestçe ifade edilmesini ve temsil edilmesini sağlar. demokratik devlet, bu özellikleriyle vatandaşların siyasi haklarını korur ve yönetime katılımını teşvik eder.","Demokratik devlete bağlı olarak genellikle aşağıdaki özellikleri bulunmaktadır:
 
-İlk önemli nokta, sosyal devlet anlayışı, insanların hakları korunması ve güvenliğini sağlamak için kullanılan anlayışlardır. Bu, insanlarin haklarını korumak ve onların çıkarlarını korumak için kullanılır.
+1. Yargı ve savunma yetkisi: İnsan hakları, özgürlükler, politik haklar gibi insan haklarının yürürlüğe alınmasını sağlar.
 
-Bu anlayış kurallarının öne çıkan önemli unsurları şunlardır:
+2. Demokratik seçimler: Büyüklü ve küçük toplumların insan haklarını ve özgürlüğünü sağlamak için düzenli seçimler sunar.
 
-1. Dürüst ve eşit olmayan sınıflandırma: Sosyal devlet anlayışı, insanların haklarını ve çıkarlarını eşit şekilde değerlendirerek, aynı şekilde karşılanmasını sağlar.
+3. Devlet kontrolü: Hükümeti yönetmek için seçilen insanların kontrol altına alınır.
 
-2. Kritik durumlarda koruma ve yardım: Anayasa madde 2'ü, insanların kritik durumlarda koruma ve yardım etmelerine olanak tanır.
+4. Düşünce salgını: Hükümetlerin ve diğer önemli kurumlara olan düşüncelerini göstererek bu tür kurumların daha iyi yönetimi sağlar.
 
-3. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+5. Sivilizasyon: Sosyal ve ekonomik durumları iyileştirmek için devletin işleri yapması gereken görevlilerine sahip olur.
 
-4. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+6. İstikrar ve güven: Sadece bir kişinin kontrol altına alınmamakla kalmayıp, herkesin ona saygı göstermesi gereğini sağlar.
 
-5. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+7. Demokratik soruşturma sistemleri: Bu sistemler, sorunları çözme ve insan hakları koruma amacıyla kullanılır.
 
-6. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+8. Demokratik bir siyaset: Bu sistem, halkın ve ülkeyi yönetmek için kullanılan siyasi stratejileri içerir.
 
-7. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+9. Dış bağlantı kuralları: Uluslararası ilişkileri düzenlemek için kurulmuş olan kurallar.
 
-8. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+10. Sivil hakları: Halkın ve insan haklarına ilişkin hakları.
 
-9. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+Bu özellikler genellikle bir devletin depremli bir şekilde yönetilmesine yardımcı olurlar. Ancak, bu özelliklerin kesin bir şekilde uygulanması ve devletin tüm özellikleri de demokrasisi ile ilgilidir.",0.27840909090909094,0.051428571428571435,0.16477272727272727,0,0.2,176,61,1
+13,Qwen2.5-1.5B-Instruct,"Anayasa madde 2'ye göre, sosyal devlet anlayışı neyi ifade eder","Anayasa madde 2'ye göre, sosyal devlet anlayışı, devletin vatandaşlarının sosyal refahını sağlamak için gerekli ekonomik ve sosyal politikaları uygulamasını ifade eder. sosyal devlet, vatandaşlarının temel ihtiyaçlarını karşılamayı ve yaşam standartlarını yükseltmeyi hedefler. bu anlayış, eğitim, sağlık, sosyal güvenlik ve istihdam gibi alanlarda devletin aktif rol almasını ve vatandaşlarının sosyal haklarını güvence altına almasını gerektirir. sosyal devlet, aynı zamanda sosyal adaleti ve eşitliği sağlamayı amaçlar.","Sosyal devlet anlayışı, Anayasa Madde 2'nin (AnM2) genel olarak belirli kurumların ve kişilere nasıl sınırlı olmak üzere hareket etmesini ve işbirliğini sağlamasını gerektiren principlar ve mekanizmalar hakkında bahsediyor. Bu konu, sosyal, ekonomik ve politik alanlardaki önemli tarihsel değişimlerin nedenleriyle ilgili bilgi ve anlayışın önemli parçasıdır.
 
-10. İnsan haklarının korunması: Sosyal devlet anlayışı, insan haklarının korunmasına dair özel bir kurallar sunar.
+AnM2'de, sosyal devlet anlayışı temel olarak ""yapıcı"" ve ""yaratıcı"" değerleri içermektedir. Bu, insanlarla ve ülkenin varlığını koruyan ve bu değerleri sürdürmek için çeşitli yöntemler kullanmak zorundadır. 
 
-Sonuç olarak, sosyal devlet an",0.24096385542168672,0.08232445520581112,0.17349397590361446,0,0.174496644295302,222,64,0
-14,Qwen2.5-1.5B-Instruct,Anayasa madde 2'de laik devletin tanımı nedir,"Anayasa madde 2'de laik devletin tanımı, devletin din ve devlet işlerini birbirinden ayırarak, tüm inançlara eşit mesafede durmasıdır. laik devlet, dinin devlet işlerine karışmamasını ve devletin de din işlerine müdahale etmemesini sağlar. bu anlayış, din ve vicdan özgürlüğünü güvence altına alır ve her bireyin inançlarını serbestçe yaşamasına imkan tanır. laiklik, aynı zamanda dinin siyasete alet edilmesini engeller ve devletin tarafsızlığını korur.","Anayasa Madde 2, Türkiye'nin anayasası ve diğer mecliste geleneksel yasaları ve düzenlemeleri içeren Anayasa Kanunu'ndaki ana yasal mevzuatıdır. Bu mevzuata göre, ""Laik devlet"" (yazılı olarak: Laik Devlet) ifadesi genellikle:
+Bu anlayışı takip etmek ve uygulamak, insan hakları koruma, sosyal demokrasi, ekonomik eşitlik ve uluslararası ilişkiler gibi önemli alanda öneme sahip durumlardaki insanların ihtiyaçlarını karşılamak için gereklidir.
 
-1. Sosyal, sosyal ilişkiler ve eğitim sistemlerinin kurucusu olmaktan bahsediyor.
+Sonuç olarak, sosyal devlet anlayışı, bir ülke veya bir grup tarafından oluşturulan ve yönetilen düzenlemeler ve stratejilerin, insan haklarına ve yaratıcılığın önemini vurgular.",0.3409090909090909,0.11450381679389314,0.2045454545454545,0,0.2446808510638298,121,64,1
+14,Qwen2.5-1.5B-Instruct,Anayasa madde 2'de laik devletin tanımı nedir,"Anayasa madde 2'de laik devletin tanımı, devletin din ve devlet işlerini birbirinden ayırarak, tüm inançlara eşit mesafede durmasıdır. laik devlet, dinin devlet işlerine karışmamasını ve devletin de din işlerine müdahale etmemesini sağlar. bu anlayış, din ve vicdan özgürlüğünü güvence altına alır ve her bireyin inançlarını serbestçe yaşamasına imkan tanır. laiklik, aynı zamanda dinin siyasete alet edilmesini engeller ve devletin tarafsızlığını korur.","Anayasa Madde 2'nin ""Laike Devleti"" bölümünde, laik devletin tanımlanması şu şekilde yer almaktadır:
 
-2. Sosyal, sosyal ilişkiler ve eğitim sisteminin kurucusu olma yetkisi ayarlanmamaktadır.
+""Laike devleti, idari ve siyasi yetkililerin toplumunla işbirliği içinde yönetimi, düzenlemeyi, kontrolü ve tutumu yapan devlet.""
 
-3. Sosyal, sosyal ilişkiler ve eğitim sisteminin kurucusu olma yetkisi ayarlanmadığını vurgular.
+Bu açıklama, aşağıdaki önemli noktaları içeriyor:
 
-4. Sosyal, sosyal ilişkiler ve eğitim sisteminin kurucusu olma yetkisi yerine, sivil yetkilerin kullanılması öngörmektedir.
+1. Idarî yetkiler: Laik devlet, idari yetkiye sahip olmalıdır.
 
-Bu tanımda, laik devletin kurucusu sivil yetkilere olan temel bağımlılık olmadığı belirlenmiştir. Ancak, bu tür bir tanımda da laik devletin temel rolünü ve görevleri açıklamada bulunmayan bir durumda bulunmaktadır. Bu nedenle, genellikle ""laik devlet"" termine genellikle sivil yetkililere olan temel bağımlılık veya bağımsızlık sağlanışı düşünebilir.",0.24603174603174607,0.048,0.15873015873015872,0,0.17204301075268816,122,61,1
-15,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, hukuk devleti ilkesini nasıl tanımlar","Anayasa madde 2, hukuk devleti ilkesini, devletin tüm eylem ve işlemlerinin hukuk kurallarına bağlı olduğu, yargı denetimine açık olduğu bir sistem olarak tanımlar. hukuk devleti, yasaların üstünlüğünü kabul eder ve devletin faaliyetlerinin hukuka uygun olmasını sağlar. bu ilke, vatandaşların haklarının ve özgürlüklerinin korunmasını ve devletin keyfi uygulamalarına karşı yargı denetimi yoluyla korunmalarını temin eder. hukuk devleti, adaletin sağlanmasını ve hukukun herkes için eşit uygulanmasını garanti eder.","Anayasa madde 2, ""Hükümetin yasalarını ve düzenlemelerini kurması, yönetmesi ve uygulaması"" ifadesine dayanır. Bu, genellikle hükümetin kurucusu, yöneticisi veya diğer önemli yetkiliydi.
+2. Siyasi yetkiler: Laik devlet, siyasi yetkiye de sahip olmalıdır.
 
-İki ana yönle hukuk devleti ilkesinin tanımlanmıştır:
+3. Toplumsal işbirliği: Laik devlet, toplumunla işbirliği içinde yönetimi yapabilmelidir.
 
-1. Hükümetin Yasadışı Kurme Yetkisi: Hükümet, yasal düzenlemeler oluşturmak, yönetmek ve uygulamak için yetkisi sahiptir. Bu yetkiye ait bazı özel durumlar da vardır, örneğin mevcut yasaların değiştirilmesi gibi.
+4. Yönetimi: Laik devlet, yönetimini yapabilmelidir.
 
-2. Hükümetin Yasadışı Yönetimi Yetkisi: Bu, hükümetin yasanın ve düzenlemelerinin uygulanmasını ve yönetmenin yetkisidir. Bu yetkinin genel olarak belirlenmemesi nedeniyle, hükümetin bu yetkiye ait tutarlı bir rol oynadığı durumda görülmektedir.
+5. Düzenleme: Laik devlet, düzenlemeyi yapabilmelidir.
 
-Bu, Anayasa Madde 2'nin temel özelliklerinden biri olup, genel bir anayasa sistemine dayanarak, hükümetin yasadışı yönetim ve kurma yetkilendirme yetkinleri hakkında bilgi verir.",0.20080321285140565,0.07287449392712551,0.1285140562248996,0,0.1797752808988764,110,66,1
-16,Qwen2.5-1.5B-Instruct,"Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin değişmez nitelikleri nelerdir","Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin değişmez nitelikleri demokratik, laik, sosyal bir hukuk devleti olmasıdır. bu nitelikler, türkiye'nin temel devlet yapısını ve yönetim biçimini belirler. demokratik devlet, halkın yönetime katılımını ve seçimler yoluyla temsil edilmesini sağlar. laik devlet, din ve devlet işlerini birbirinden ayırır ve din özgürlüğünü korur. sosyal devlet, vatandaşların sosyal refahını artırmak için politikalar uygular ve sosyal adaleti sağlar. hukuk devleti, yasaların üstünlüğünü kabul eder ve devletin faaliyetlerinin hukuka uygun olmasını temin eder.","Türkiye Cumhuriyeti'nin değişmez nitelikleri genellikle şu şekildedir:
+6. Kontrolü: Laik devlet, kontrolünü yapabilmelidir.
 
-1. İslam: İslam dininin temel niteliğidir.
+7. Tutumu: Laik devlet, tutumu yapabilmelidir.
 
-2. Özgürlük: Halkın özgürlüğü ve hakları.
+Bu tanımda, laik devletin genel özellikleri ve görevleri belirlenmiştir. Bu durumla ilgili daha fazla detay bilgi için, Anayasa Madde 2'ün diğer bölümlerine bakmanız veya profesyonel hukuki kaynaklardan daha ayrıntılı bilgi almanız önerilir.",0.22310756972111553,0.048192771084337345,0.1593625498007968,0,0.16304347826086954,120,61,0
+15,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, hukuk devleti ilkesini nasıl tanımlar","Anayasa madde 2, hukuk devleti ilkesini, devletin tüm eylem ve işlemlerinin hukuk kurallarına bağlı olduğu, yargı denetimine açık olduğu bir sistem olarak tanımlar. hukuk devleti, yasaların üstünlüğünü kabul eder ve devletin faaliyetlerinin hukuka uygun olmasını sağlar. bu ilke, vatandaşların haklarının ve özgürlüklerinin korunmasını ve devletin keyfi uygulamalarına karşı yargı denetimi yoluyla korunmalarını temin eder. hukuk devleti, adaletin sağlanmasını ve hukukun herkes için eşit uygulanmasını garanti eder.","Anayasa madde 2, hukuk devleti ilkesinin temel kavramlarını ve ilişkilerini temsil eder. Bu, hukuki yetkililerin ve hakimlerin hukukun temel kuralları ve işlemlerini düzenlemek için kullanılan anayasal yetkililere ve hakemlere olan ilişkileri tanımlamaktadır.
 
-3. Dışişleri: İslam dünyasının yönetimi.
+Anayasa madde 2'nin ana özelliklerinden birisi de hukuk devleti ilkesinin temel kurallarını ve işlemlerin genel öneme sahip olduğu anlamına gelir. Bu kurallar genellikle:
 
-4. Tarihi: Türkiye'deki tarih ve kültürünü korumak.
+1. Hükümetin ve devletin hukuk kurumları tarafından yönetilen işlemlerdir.
+2. Devletin hukuki yetki ve yetkili haklar vardır.
+3. Hükümetin veya devletin belirlenen kurallara uyması gerekmektedir.
+4. Hükümetin veya devletin yasaları, düzenlemeler ve diğer hukuki yetkililere uygun olarak hazırlanmalıdır.
 
-5. Demokrasi: Halkların seçme hakkı ve kurumsal yetkililerin tutarlı çalışması.
+Anayasa madde 2 ayrıca devletin hukuk kurumlarının işlevleri hakkında bilgi vermektedir. Bu işlevler arasında:
 
-6. Kültürel: Kültür ve etnik çeşitliliği korumak.
+- Hükümetin veya devletin hukuki yetkilileri tarafından yürütülen işlemlerden sorumluluk alanlarına sahiptir.
+- Hükümetin veya devletin hukuki yetkilileri tarafından yürütülen işlemlerde tutarlılık, doğru ve güvenliye yönelik düzenlemeleri yapması gerekmektedir.
+- Hükümetin veya devletin hukuki yetkilileri tarafından yürütülen işlemlerde hukukun temel kurallarının ve işlemlerin genel önemi yer almalıdır.
 
-7. Ortaklık: Türkiye'nin dış arası ilişkilerini güçlendirmek.
+Bu nedenle, Anayasa madde 2, hukuk devleti ilkesinin temel kavramlarını ve ilişkilerini tanımlayan bir anlatımdır ve bu anlayışın uygulanması, hukukun temel kurallarını ve işlemlerin genel önemi göz önünde bulundurarak devletin hukuki yetkilerine ve hakemlere olan ilişkileri düzenleyebilmeye yardımcı olur.",0.2684931506849315,0.07713498622589533,0.15342465753424656,0,0.20233463035019456,193,66,1
+16,Qwen2.5-1.5B-Instruct,"Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin değişmez nitelikleri nelerdir","Anayasa madde 2'ye göre, türkiye cumhuriyeti'nin değişmez nitelikleri demokratik, laik, sosyal bir hukuk devleti olmasıdır. bu nitelikler, türkiye'nin temel devlet yapısını ve yönetim biçimini belirler. demokratik devlet, halkın yönetime katılımını ve seçimler yoluyla temsil edilmesini sağlar. laik devlet, din ve devlet işlerini birbirinden ayırır ve din özgürlüğünü korur. sosyal devlet, vatandaşların sosyal refahını artırmak için politikalar uygular ve sosyal adaleti sağlar. hukuk devleti, yasaların üstünlüğünü kabul eder ve devletin faaliyetlerinin hukuka uygun olmasını temin eder.","Türkiye Cumhuriyeti'nin değişmez nitelikleri şu şekildedir:
 
-8. Sosyal: Halkın sosyal yaşamını korumak ve düzenlemek.
+1. Demokratik: Türkiye'nin ana değerlerinden biridir.
 
-9. Sanat: Sanat ve ekonomik istikrarı sağlama.
+2. Sivil Hükümet: Birleşmiş Milletler tarafından yönetilen devlet.
 
-10. Enerji: Ülkenin enerji bütçesini yönetmek.
+3. Ülkedeki Güçlendirme: Ulusal bir yetkililik sistemi.
 
-Bu nitelikler, Türkiye'nin genel politik stratejisi ve hukuki yapısı üzerinde önemli rol oynar.",0.3629032258064516,0.13821138211382114,0.20161290322580644,0,0.22988505747126434,89,75,1
-17,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, insan haklarına saygılı devlet anlayışını nasıl açıklar","Anayasa madde 2, insan haklarına saygılı devlet anlayışını, devletin vatandaşlarının temel hak ve özgürlüklerine saygı göstermesi ve bunları koruması olarak açıklar. i̇nsan haklarına saygılı devlet, vatandaşların yaşam, özgürlük, güvenlik ve mülkiyet haklarını korur. ayrıca, düşünce, ifade, din ve vicdan özgürlüğü gibi temel hakların korunmasını sağlar. devlet, insan haklarının ihlal edilmesini engellemek ve bu hakları güvence altına almakla yükümlüdür. bu anlayış, devletin vatandaşlarına karşı sorumluluklarını ve yükümlülüklerini belirler.","Anayasa madde 2'in insan haklarına saygılı devlet anlayışını ifade etmek için, bazı önemli kavramlar ve kurallar kullanılır:
+4. Özgürlük: İslam mutluğuna dayanarak yaşamı güvendiği insanlar için düzenli olarak korunur.
 
-1. İnsan haklarına saygılı devlet: Bu, devletin insan haklarına saygı gösterdiği anlamına gelir.
+5. Yargılaşma: Uluslararası ilişkilerde yorumlanabilirliği sağlar.
 
-2. Dürüst ve saygılı kararlara yol açan politikalar: Bu, insan haklarına dayalı politikaların kullanılmasıdır.
+6. Ortaklık: Kuzeydoğu ve Batılı ülkelerle ortak olma yeteneğine sahiptir.
 
-3. İnsan hakları tutarlılığını savunma: Devlet, insan haklarının korunmasını ve teşvik edilmesini sağlama amaçlanır.
+7. Sosyal Durumlar: Yaşam koşullarını düzenleyen kurallara uygun durumlarda yaşayan insanlar için düzenli olarak korunur.
 
-4. İnsan haklarına dayalı sorumluluklar: Devlet, insan haklarının ihlal等情况inde yasaklıklar uygular.
+8. Ekonomi: İşçi sınıfı ile birlikte ekonomiye katılmaktadır.
 
-5. İnsan haklarına dayalı düzenlemeler: Hukuki düzenlemeler ve reformların insan haklarına uygun olmasına önemlidir.
+9. Kültürel: Kültür ve etnik farklılıklarla beraber yaşamakta olan halk.
 
-6. İnsan haklarına dayalı yönetim kuralları: Yurtdışı ve yerel kurallar da insan haklarına dayalıdır.
+Bu nitelikler, Türkiye Cumhuriyeti'nin genel politik ve sosyal yapısına bağlıdır ve bu, Türkiye'nin demokratik ve demografik yapıları doğrultusunda değişmediğini gösterir.",0.33098591549295775,0.1347517730496454,0.16901408450704225,0,0.25,108,75,0
+17,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, insan haklarına saygılı devlet anlayışını nasıl açıklar","Anayasa madde 2, insan haklarına saygılı devlet anlayışını, devletin vatandaşlarının temel hak ve özgürlüklerine saygı göstermesi ve bunları koruması olarak açıklar. i̇nsan haklarına saygılı devlet, vatandaşların yaşam, özgürlük, güvenlik ve mülkiyet haklarını korur. ayrıca, düşünce, ifade, din ve vicdan özgürlüğü gibi temel hakların korunmasını sağlar. devlet, insan haklarının ihlal edilmesini engellemek ve bu hakları güvence altına almakla yükümlüdür. bu anlayış, devletin vatandaşlarına karşı sorumluluklarını ve yükümlülüklerini belirler.","Anayasa Madde 2'ü, insan haklarına saygılı bir devlet anlayışıyla ilgili önemli bir kurallara dayanır. Bu kurallar, insan hakları ve özgürlükleri korumak için devletin görevini belirtir. İşte bunların bazı temel özellikleri:
 
-7. İnsan haklarına dayalı seçimler: Devletin insan haklarına dayalı bir şekilde yönetildiği anlamına gelir.
+1. İnsan haklarına saygı gösterme: Devlet, insan haklarını koruma, kalkınma ve güvence sağlama amacıyla görev yapmaya çalışmalıdır.
 
-8. İnsan haklarına dayalı finansal sistemler: Bu, insan haklarına dayalı ekonomi düzenlemeleri içerir.
+2. İnsan haklarının korunması: Devlet, insan haklarının tamamlandığına dair en fazla empatik bir şekilde incelemeye ve karşılamayı tercih eder.
 
-9. İnsan haklarına dayalı eğitim ve eğitimin düzeni: Eğitim kurumları da insan haklarına dayalı olarak tasarlanmalıdır.
+3. İnsan haklarının korunması için yasaların uygulanması gerekliliği: Anayasa Madde 2, insan haklarının korunmasını sağlamak için genellikle uygulanan yasal düzenler ve mevkilere yer verir.
 
-10. İnsan haklarına dayalı güvenlik sistemi: Bu, insan haklarına dayalı güvenlik önlemleri sunmaktadır.
+4. İnsan haklarının korunması için yasaların uygulanması gerekliliği: Devlet, insan haklarının korunmasını sağlamak için genellikle uygulanan yasal düzenler ve mevkilere yer verir.
 
-Bu kavramları ve kuralları takip etme, insan haklarına saygılı devlet anlayışının ifade edilmesine yardımcı olacaktır.",0.36464088397790057,0.16111111111111112,0.24861878453038674,0,0.2682926829268293,168,67,0
-18,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, atatürk milliyetçiliğine bağlı devlet kavramını nasıl tanımlar","Anayasa madde 2, atatürk milliyetçiliğine bağlı devlet kavramını, devletin atatürk'ün ilke ve inkılaplarına bağlı kalarak milletin bağımsızlığını ve bütünlüğünü koruması olarak tanımlar. atatürk milliyetçiliği, türkiye'nin modernleşme sürecinde önemli bir rol oynamış ve ülkenin laik, demokratik ve sosyal bir hukuk devleti olarak şekillenmesine katkıda bulunmuştur. bu kavram, milli birlik ve beraberliği, bağımsızlık ve egemenliği, laiklik ve çağdaşlaşmayı esas alır. devlet, atatürk milliyetçiliği doğrultusunda hareket ederek, bu değerleri koruma ve geliştirme görevini üstlenir.","Türk Cumhuriyeti'nde atatürk milliyetçiliği genellikle ""milliyetçilik"" olarak ifade edilir ve bu tür milliyetçilik, Türkiye'nin toprak üzerindeki etnik, kültürel ve sosyal farklılıklarının ve farklı kültürlerinin bir araya gelme ve birbirleriyle barış içinde işbirliği yapma anlamına gelir.
+5. İnsan haklarının korunması için yasaların uygulanması gerekliliği: Devlet, insan haklarının korunmasını sağlamak için genellikle uygulanan yasal düzenler ve mevkilere yer verir.
 
-Atatürk Milliyetçiliği'nin temel özellikleri şunlardır:
+6. İnsan haklarının korunması için yasaların uygulanması gerekliliği: Devlet, insan haklarının korunmasını sağlamak için genellikle uygulanan yasal düzenler ve mevkilere yer verir.
 
-1. Tarih: 18 December 1901'de atatürk tarafından tanındı.
-2. Milliyetçilik: Bu concept, Türkiye'nin etnik, kültürel ve sosyal farklılıklarının bir arada olmalarını sağlar.
-3. Barış: Türkiye'nin etnik grupların, kültürlerinin ve kültürel farklılıkları ile ilgili anlaşmazlıkların ortadan kaldırılmasını sağlamaktadır.
-4. İlişkinlik: Atatürk Milliyetçiliği, Türkiye'nin etnik grupların, kültürel farklılıklarının ve farklı kültürlerinin bir araya gelmesini ve bunları birbirleriyle barış içinde işbirliği yapmasını sağlamaktadır.
-5. Yargılaşma: Türkiye'nin etnik gruplarının, kültürel farklılıklarının ve farklı kültürlerinin barışı için yargılaşması ve çabası gerektiğini belirtmektedir.
+Bu kurallar, insan haklarına saygılı bir devlet anlayışını yansıtır ve insan haklarının korunmasına ve savunmasına yönelik taktiğiyle ilgilidir.",0.3288409703504043,0.1626016260162602,0.24797843665768196,0,0.248,174,67,1
+18,Qwen2.5-1.5B-Instruct,"Anayasa madde 2, atatürk milliyetçiliğine bağlı devlet kavramını nasıl tanımlar","Anayasa madde 2, atatürk milliyetçiliğine bağlı devlet kavramını, devletin atatürk'ün ilke ve inkılaplarına bağlı kalarak milletin bağımsızlığını ve bütünlüğünü koruması olarak tanımlar. atatürk milliyetçiliği, türkiye'nin modernleşme sürecinde önemli bir rol oynamış ve ülkenin laik, demokratik ve sosyal bir hukuk devleti olarak şekillenmesine katkıda bulunmuştur. bu kavram, milli birlik ve beraberliği, bağımsızlık ve egemenliği, laiklik ve çağdaşlaşmayı esas alır. devlet, atatürk milliyetçiliği doğrultusunda hareket ederek, bu değerleri koruma ve geliştirme görevini üstlenir.","Anayasa Madde 2, Türkiye Cumhuriyeti'nin ana anayasal yasalarından biridir. Bu madde, Türkiye'deki devlet kurumlarının sınırları ve temel rolünü belirtir. Özellikle:
 
-Bu tür milliyetçilik, Türkiye'nin etnik grupların, kültürel farklılıklarının ve kültürel farklılıklarının bir araya gelmesini ve bunları birbirleriyle barış içinde işbirliği yapmasını sağlamak amacıyla geliştirilmeye başlandı. Atatürk'in bu conceptuyla, Türkiye'nin etnik grupların, kültürel farklılıklarının ve kültürel farklılıklarının bir araya gelmesini ve bunları birbirleriyle barış içinde işbirliği yapmasını sağlamak için önemli bir adım atmıştır.",0.2407407407407407,0.08372093023255814,0.1574074074074074,0,0.1889763779527559,169,71,1
-19,Qwen2.5-1.5B-Instruct,Anayasa madde 2'de sosyal adaletin sağlanması nasıl açıklanır,"Anayasa madde 2'de sosyal adaletin sağlanması, devletin sosyal ve ekonomik politikalarla vatandaşlar arasındaki eşitsizlikleri gidermesi ve sosyal refahı artırması olarak açıklanır. sosyal adalet, toplumun tüm kesimlerinin eşit fırsatlara sahip olmasını ve yaşam standartlarının yükseltilmesini hedefler. devlet, eğitim, sağlık, sosyal güvenlik ve istihdam gibi alanlarda politikalar geliştirerek sosyal adaleti sağlar. ayrıca, dezavantajlı grupların korunması ve desteklenmesi, gelir dağılımındaki adaletsizliklerin giderilmesi ve sosyal refahın artırılması da sosyal adaletin sağlanması için önemlidir.","Anayasa Madde 2, insan haklarının ve özgürlüğünün korunması konusundaki önemli kuramlarla ilgili bir anayasa maddeidir. Sosyal adaletin sağlanması, bu anayasa kurallarına dayalı olarak, insan hakları korunmaya yönelik önlemler sunar.
+1. Devlet kurumlarının sınırları:
+   - Başbakanlık ile ilgilenmez
+   - Devlet kurumları için ayrıntılı bir tanımsızlık mekanizması olur
 
-Bu kuramların ana konuları şunlardır:
+2. Temel rolü:
+   - Devletin toplumsuz yetkililerinden ayrılır
+   - Yabancı ülkelerden gelen insanlarla işbirliği yapamaz
+   - İçişleri Bakanlığı ve diğer devlet kurumlarının yönetimi altındaki yetkililerle işbirliği yapamaz
 
-1. İnsan Hakları Koruma:
-   - İnsanların özgürlüklerinin korunması.
-   - İnsanlar için en uygun ve düzenli bir yaşam biçimini sağlama.
-   - İnsanların haklarını korumak için gereken yolları belirtmek.
+3. Anayasada belirtilen devlet kurumlarda, başbakanlık, parlamento, askeri güçler gibi önemli kurumların sınırları hakkında daha fazla bilgi veriyor.
 
-2. Dışişleri Hakkı:
-   - İnsanların uluslararası hizmetleri ve işbirliği konusunda haklarını korumak.
-   - İnsanların kendi ülkelerindeki haklarını korumak.
+4. Bu kurumların dışında, özel kurumlardan bahsetmeyebilir (örneğin, muhasebe kurumu)
 
-3. İnsan Hakları Kalkınma:
-   - İnsanların haklarını korurken, aynı zamanda bu hakların yerine getirilmesi gerektiğini vurgulamaktadır.
+5. Anayasada bu kurumların sınırlarının belirlendiği zaman, Türkiye'nin Milli Eğitim Kurumu'na ait tüm eğitim sistemini kapsıyor.
 
-4. İnsan Hakları İstihbaratı:
-   - İnsanların haklarını kontrol eden, ihmal etme riski olmayan sistemler sunmak.
-   - İnsanların haklarını korumak ve ihlali tespit etmek için kullanılan sistemin belirlenmesi.
+Bu anayasal yasaya göre, devlet kurumlarının sınırları genellikle şu şekilde ifade edilmektedir: Başbakanlık, parlamento, askeri güçler, özel kurumlardır ve bu kurumlara dışındaki tüm yetkililerin toplumsuz yetkilileri olarak kabul edilir.",0.2611464968152866,0.03846153846153846,0.14012738853503182,0,0.16190476190476188,137,71,1
+19,Qwen2.5-1.5B-Instruct,Anayasa madde 2'de sosyal adaletin sağlanması nasıl açıklanır,"Anayasa madde 2'de sosyal adaletin sağlanması, devletin sosyal ve ekonomik politikalarla vatandaşlar arasındaki eşitsizlikleri gidermesi ve sosyal refahı artırması olarak açıklanır. sosyal adalet, toplumun tüm kesimlerinin eşit fırsatlara sahip olmasını ve yaşam standartlarının yükseltilmesini hedefler. devlet, eğitim, sağlık, sosyal güvenlik ve istihdam gibi alanlarda politikalar geliştirerek sosyal adaleti sağlar. ayrıca, dezavantajlı grupların korunması ve desteklenmesi, gelir dağılımındaki adaletsizliklerin giderilmesi ve sosyal refahın artırılması da sosyal adaletin sağlanması için önemlidir.","Anayasa Madde 2, ""Sosyal adaletin sağlanması"" bölümüne 34 sene kadar (1950-1987) ait. Bu bölüm, sosyal adaletin hem temel hakları hem de bu tür hakların yasal korunması konusuna odaklanmıştır.
 
-5. İnsan Hakları Koruma Üreticileri:
-   - İnsanların haklarını korumak için gereken yetenekler ve araçları belirlemektir.
+Bu bölmede, sosyal adaletin temel değerleri ve yapısını açıklayarak, insanlar arasındaki eşitsizliklerin ve farklılıkların karşılanmasını sağlamaya yönelik hukuki düzenlemeleri açıklar. İşte bu bölümün bazı ana noktaları:
 
-6. İnsan Hakları Koruma Ücretleri:
-   - İnsanların haklarını korurken, ancak haklarının yerine getirilebilmesi veya yok olup olmadığını kontrol etmek için gereken ücretlere başvurmayı mümkün kılmaktadır.
+1. İnsanlar arasındaki eşitsizliklerin ve farklılıkların karşılanışı:
+   - İnsanların herkes için aynı şekilde yaşayabilecek haklara sahip olmaları.
+   - İnsanların haklarını yasadışı şekillerde yastığa sokmayan hukuk yasalarına dayanan koruma politikalarının uygulanmasına önem verir.
 
-7. İnsan Hakları Koruma Etkinlikleri:
-   - İnsanların haklarını korurken, ancak bu hakların yerine getirilebilmesi veya yok olup olmadığını kontrol etmek için yapılan etkinlikler.
+2. Sosyal adaletin temel hakları:
+   - İnsanların kendi özgürlüklerini korumak ve yaratıcı bir ortam sunmak.
+   - İnsanların öznel çıkarlarını korumak ve yaratıcı bir ortam sunmak.
 
-8. İnsan Hakları Koruma İdari Kuralları:
-   - İnsanların haklarını korurken, ancak bu hakların yerine getirilebilmesi veya yok olup olmadığını kontrol etmek için yapılan idari kurallara başvurmayı mümkün kılmaktadır.
+3. Hukuk yasalarına dayanan koruma politikaları:
+   - İnsanların haklarını yasadışı şekillerde yastığa sokmayan hukuk yasalarına dayanan koruma politikalarının uygulanmasına önem verir.
 
-9. İnsan",0.15538847117794485,0.050377833753148624,0.11528822055137844,0,0.10169491525423728,215,69,0
-20,Qwen2.5-1.5B-Instruct,"Anayasa madde 3'e göre, türkiye'nin resmi dili nedir","Anayasa madde 3'e göre, türkiye'nin resmi dili türkçedir. bu madde, türkçenin devletin tüm resmi işlemlerinde, eğitim kurumlarında ve kamu kurumlarında kullanılmasını zorunlu kılar. resmi dilin türkçe olması, türkiye'nin kültürel bütünlüğünü ve milli kimliğini korumak amacıyla belirlenmiştir. türkçe, aynı zamanda vatandaşlar arasındaki iletişimin sağlanması ve devletin resmi yazışmalarında kullanılacak dil olarak kabul edilmiştir.","Türkiye'nin resmi dili Türkçe'dir. Bu belirtimi anayasa madde 3'ün başlığına ve içeriğiyle da görülebilir:
+4. Sosyal adaletin yapısı:
+   - İnsanların haklarını yasadışı şekillerde yastığa sokmayan hukuk yasalarına dayanan koruma politikalarının uygulanmasına önem verir.
 
-""Artık Türkiye'nin resmi dili, Türkçe olacak."" (Artık: ""Bu"", Türkiye: ""Türkiye"")
+Bu bölmeden, sosyal adaletin temel değerleri ve yapısı hakkında bilgi edinebilirsiniz. Ancak, ayrıntılı bilgiler ve güncel durumları için genel anayasaya bakılmaksıznada veya özel kurumlardan bilgi edinmelisiniz.",0.27298050139275765,0.06162464985994398,0.17270194986072426,0,0.18399999999999997,177,69,0
+20,Qwen2.5-1.5B-Instruct,"Anayasa madde 3'e göre, türkiye'nin resmi dili nedir","Anayasa madde 3'e göre, türkiye'nin resmi dili türkçedir. bu madde, türkçenin devletin tüm resmi işlemlerinde, eğitim kurumlarında ve kamu kurumlarında kullanılmasını zorunlu kılar. resmi dilin türkçe olması, türkiye'nin kültürel bütünlüğünü ve milli kimliğini korumak amacıyla belirlenmiştir. türkçe, aynı zamanda vatandaşlar arasındaki iletişimin sağlanması ve devletin resmi yazışmalarında kullanılacak dil olarak kabul edilmiştir.","Türkiye'nin resmi dili Türkçe'dir. Bu durum, Türkiye Cumhuriyeti'ne ait ve resmi anayasal sistemin ve idari sisteminin tümüyle Türkçe'ye dayanmaktadır. Bu anayasal sistemi oluşturdukları esaslı yetkililer, bu da resmi dili olarak kabul edilen Türkçe'nin tamamı için belirlenmiştir.",0.39999999999999997,0.19580419580419578,0.26206896551724135,0,0.3333333333333333,36,52,0
+21,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, türkiye'nin başkentini nasıl belirler","Anayasa madde 3, türkiye'nin başkentini ankara olarak belirler. başkent ankara, türkiye'nin siyasi, idari ve kültürel merkezi olarak kabul edilir. ankara'nın başkent olarak seçilmesi, kurtuluş savaşı sırasında stratejik bir konumda bulunması ve bağımsızlık mücadelesinde önemli bir rol oynaması nedeniyle tercih edilmiştir. başkent, türkiye'nin yönetim merkezi olarak tüm devlet organlarının ve kamu kurumlarının bulunduğu yerdir.","Türkiye'nin başkenti anayasa madde 3 (1950) tarafından belirlenmiştir. Bu belge, Türkiye'nin topraklarını ve kuzeybatı demokratik ilçelerini de kapsayan bir devletin kurumunu temsil eder.
 
-Bu ifade, Türkiye'nin resmi dili olan Türkçe'nin resmi olarak tanımlanmasının belirlenmesi konusundaki ilk adımdır.
+Bu belgenin belirlenmesi:
 
-Türkçe, bu ilçeyi de kapsayan, Türkiye'yi anlatmak için kullanılan ve yaygın olarak kullanılan ana dilidir. 
+1. Türkiye'nin başkentini olarak İstanbul'yu seçti.
 
-Ancak, Türkçe'de bazı özel dil kelimeleri veya anlamlar, genellikle Türkçede yer almayabilirler. Örneğin, ""artık"" kelimesi Türkçe'de ""today"" anlamına gelirken, ""yap"" kelimesi ise Türkçe'de ""do"" anlamına gelir. Ancak bu şekilde, Türkçe'deki çoğu dil kelimesi, genel olarak Türkçedeki dil kelimelerine karşılık gelir.
+2. Anayasada ""Başkent"" ismi kullanılmaya devam etti.
 
-Sonuç olarak, Türkiye'nin resmi dili, Türkçedir ve genellikle Türkçede yer alır.",0.32699619771863114,0.12260536398467432,0.22053231939163498,0,0.24561403508771934,104,52,1
-21,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, türkiye'nin başkentini nasıl belirler","Anayasa madde 3, türkiye'nin başkentini ankara olarak belirler. başkent ankara, türkiye'nin siyasi, idari ve kültürel merkezi olarak kabul edilir. ankara'nın başkent olarak seçilmesi, kurtuluş savaşı sırasında stratejik bir konumda bulunması ve bağımsızlık mücadelesinde önemli bir rol oynaması nedeniyle tercih edilmiştir. başkent, türkiye'nin yönetim merkezi olarak tüm devlet organlarının ve kamu kurumlarının bulunduğu yerdir.","Türkiye'nin başkenti, Ulusal Anayasası (UAN) genel anlatımı çerçevesinde şu şekilde belirlenmiştir:
+3. Belirttiği şehri Türkiye'nin başkenti olarak kastediyordu.
 
-1. UAN'da Türkiye'nin başkenti belirtilmeyen önemli bir anaşamda yer almaktadır.
+4. Belirttiği şehri, Türkiye'nin ilk devletinin başkentidir.
 
-2. Belirli bir yer olarak belirlenen ""yönetici mevkidağı"" veya ""ülke merkezi"" olarak adlandırılır.
+5. Belirttiği şehrin, Türkiye'nin en büyük şehridir.
 
-3. Bu yer, ülkenin yönetim ve yöneticilik görevleri yerine getirilmesi gereken alanların yanı sıra, siyaset, finansal kurumlar gibi önemli kuruluşların yerini alabilir.
+6. Belirttiği şehrin, Türkiye'nin en önemli kıyı şehridir.
 
-4. Belirli bir yer olarak belirlenen ""yönetici mevkidağı"" olarak adlandırılan yer, Ulusal Anayasası'nın temel anlatımını oluşturmaya yardımcı olur.
+7. Belirttiği şehrin, Türkiye'nin en geniş bölgesine sahip olan şehirdir.
 
-5. Belirtildiği gibi, Türkiye'nin başkenti Ulusal Anayasası'nın temel anlatımıyla ve Türkiye'nin uluslararası ilişkilerinin düzenlemesine yönelik tutarlı bir yere sahiptir.
+8. Belirttiği şehrin, Türkiye'nin en geniş kültürel ve ekonomik anahtardır.
 
-6. Bu belirleme, Ulusal Anayasası'nın temel bir temel anlatımıdır ve bu belirtme, Ulusal Anayasası'nın temel anlatımıyla birlikte de Türkiye'nin uluslararası ilişkilerinin düzenlemesine katkıda bulunur.
+Bu belgenin belirlendiği yıl, Türkiye'nin genel seçimleri sonucu gerçekleşmiş olup, Türkiye'nin birinci devlet başkanlığı döneminde yapılmıştır.
 
-Bu belirtme, Türkiye'nin uluslararası ilişkilerini düzenlemek ve ülkenin dış politikalarını şekillendirmek için önemli bir faktör olarak değerlendirilmektedir.",0.2756183745583039,0.09252669039145908,0.1625441696113074,0,0.198019801980198,134,53,0
-22,Qwen2.5-1.5B-Instruct,Anayasa madde 3'te türkiye'nin bayrağı nasıl tanımlanır,"Anayasa madde 3'te türkiye'nin bayrağı, beyaz ay yıldızlı al bayrak olarak tanımlanır. bu bayrak, kırmızı zemin üzerine beyaz ay ve yıldız sembollerini içerir. türkiye'nin bayrağı, milli birlik ve beraberliğin, bağımsızlığın ve egemenliğin sembolüdür. bayrağın rengi ve sembolleri, türk milletinin tarihsel ve kültürel değerlerini yansıtır. bayrak, devletin ve milletin onuru ve gururu olarak kabul edilir.","Türk Anayasası, 1980 yılında yapılan bir anayasaya göre Türkiye'nin bayrak bilgisi genellikle ""Türkiye"" kelimesiyle ifade edilir. Bu bayraktaki Türkiye kelimesi, Türkiye'nin adı ve nüfusu anlamına gelir.
+İşte bu belgenin belirli özelliklerini gösteren bazı önemli noktalar:
 
-Ancak, 2016'da yapılan yeni bir anayasada bu konuda daha fazla detay verilmiştir:
+- Türkiye'nin ilk devlet başkanlığı döneminde gerçekleşmiş.
+- Türkiye'nin genel seçimleri sonucu gerçekleşmiş.
+- Belirttiği şehrin, Türkiye'nin ilk devlet başkanlığını temsil ettiği şehirdir.
+- Belirttiği şehrin, Türkiye'nin genel seçimleri sonucu seçilmiştir.
+- Belirttiği şehrin, Türkiye'nin ilk devlet başkanlığını temsil ettiği şehrinin yanı sıra, Türkiye'nin genel seçimleri sonucu seçilmiştir.
+- Belirttiği şehrin, Türkiye'nin ilk devlet başkanlığını temsil ettiği şehrinin yanı sıra, Türkiye'nin genel seçimleri sonucu seçilmiştir.
 
-1. ""Türkiye"" kelimesi: Bu kelime Türkiye'nin ismi ve nüfusu anlamında kullanılır.
+Sonuç olarak, bu belgenin belirlediği şehrin, Türkiye'nin ilk devlet başkanlığını temsil ettiği ve genel seçimleri sonucu seçilmiştir.",0.21705426356589144,0.07272727272727272,0.15503875968992248,0,0.15613382899628253,195,53,0
+22,Qwen2.5-1.5B-Instruct,Anayasa madde 3'te türkiye'nin bayrağı nasıl tanımlanır,"Anayasa madde 3'te türkiye'nin bayrağı, beyaz ay yıldızlı al bayrak olarak tanımlanır. bu bayrak, kırmızı zemin üzerine beyaz ay ve yıldız sembollerini içerir. türkiye'nin bayrağı, milli birlik ve beraberliğin, bağımsızlığın ve egemenliğin sembolüdür. bayrağın rengi ve sembolleri, türk milletinin tarihsel ve kültürel değerlerini yansıtır. bayrak, devletin ve milletin onuru ve gururu olarak kabul edilir.","Türkiye'nin bayrak (Flag of Turkey) anayasası konusu, Anayasa Madde 3'ünde yer alır ve şu şekilde tanımlanmıştır:
 
-2. Bayrak bilgisi: Türkiye'nin bayrak bilgisi ""Türkiye"" kelimesinin sonucu olarak da anılır.
+""Ülkeleri temsil eden bir flaga sahiptir. Bu flag, Türk Sırp Hristiyanlar Üçlü Kuvvetleri ile temsil edilir.""
 
-Bu yeni bir anayasadaki değişiklikler, Türkiye'nin uluslararası ilişkilerindeki etkinliğini artırmayı amaçlamıştır.
+Bu ifade, Türkiye'nin üçlü flagını temsil etmektedir: sağ üst köşede Türk bayrağı, sol üst köşede Sırp bayrağı ve alt köşede Hristiyan bayrağı bulunur.
 
-Sonuç olarak, Türkiye'nin bayrak bilgisi genellikle ""Türkiye"" kelimesiyle ifade edilir. Ancak, 2016'da yapılan yeni bir anayasada bu bayraktaki kelime, Türkiye'nin adı ve nüfusu anlamına gelir.",0.2389380530973451,0.0625,0.15929203539823011,0,0.18404907975460122,97,54,1
-23,Qwen2.5-1.5B-Instruct,"Anayasa madde 3'e göre, türkiye'nin milli marşı nedir","Anayasa madde 3'e göre, türkiye'nin milli marşı i̇stiklal marşı'dır. i̇stiklal marşı, 12 mart 1921 tarihinde türkiye büyük millet meclisi tarafından kabul edilmiştir. milli marş, türk milletinin bağımsızlık ve özgürlük mücadelesini, vatan sevgisini ve milli birliği ifade eder. i̇stiklal marşı, mehmet akif ersoy tarafından yazılmış ve osman zeki üngör tarafından bestelenmiştir. milli marş, devletin ve milletin sembollerinden biri olarak resmi törenlerde ve önemli günlerde söylenir.","Türkiye'nin milli marşının anayasada yer almadığı için belirli bir anayasa madde 3'ünde belirtilen bir isim veya ad bulunmaz. Türkiye'nin milli marşının ismi ve özellikleri genellikle bu anaya dayanır ancak bu anayasa hakkında bilgi vermek zor olabilir çünkü Türkiye'nin mevcut anayasaları çoğunlukla 1982'te değişmiştir.
+Bu yapı, Türkiye'nin dört ana ülkesini temsil etmeyi amaçlamaktadır:
 
-Türkiye'nin milli marşının en yaygın olarak kabul edilen isim ""Milli Marş"" olarak da bilinen, şu anki hükümet tarafından kullanılan ve halka açık bir marştır. Ancak, bu marşun anayasada belirtilmemesi nedeniyle genellikle ""Türkiye'nin Milli Marşı"" şeklinde de ifade edilir.
+1. Türk ülkesi
+2. Sırbistan'daki Hristiyan bayrağı
+3. Arnavutluk'daki Hristiyan bayrağı
+4. Bulgaristan'daki Hristiyan bayrağı
 
-Özellikle, bu marşın ""Müslümanlar için"" olduğu söylenmesine rağmen, Türkiye'nin birçok diğer grupların de kullanıldığı ve özellikle gençler arasında popüler olduğu görülmektedir. 
+Bu flag, Türkiye'nin uluslararası düzeydeki uluslararası ilişkileri ve kültürel bağlarını yansıtmaktadır.",0.3349282296650718,0.10628019323671498,0.2105263157894737,0,0.2193548387096774,90,54,0
+23,Qwen2.5-1.5B-Instruct,"Anayasa madde 3'e göre, türkiye'nin milli marşı nedir","Anayasa madde 3'e göre, türkiye'nin milli marşı i̇stiklal marşı'dır. i̇stiklal marşı, 12 mart 1921 tarihinde türkiye büyük millet meclisi tarafından kabul edilmiştir. milli marş, türk milletinin bağımsızlık ve özgürlük mücadelesini, vatan sevgisini ve milli birliği ifade eder. i̇stiklal marşı, mehmet akif ersoy tarafından yazılmış ve osman zeki üngör tarafından bestelenmiştir. milli marş, devletin ve milletin sembollerinden biri olarak resmi törenlerde ve önemli günlerde söylenir.","Türkiye'nin milli marşı ""Milli Marşı"" olarak adlandırılır ve 1928 yılında kurulmuştur.
 
-Sonuç olarak, Türkiye'nin milli marşı genellikle ""Türkiye'nin Milli Marşı"" olarak kabul edilmektedir, ancak anayasadaki belirtmeden önce bu isim veya adın doğru olduğunu kontrol etmen gerekebilir.",0.2775800711743772,0.07885304659498207,0.18505338078291816,0,0.20289855072463772,127,64,1
-24,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, devletin bütünlüğü kavramını nasıl açıklar","Anayasa madde 3, devletin bütünlüğü kavramını, türkiye'nin ülkesi ve milletiyle bölünmez bir bütün olduğu şeklinde açıklar. devletin bütünlüğü, ülke sınırları içinde bölünme ve ayrılmanın kabul edilmediği anlamına gelir. bu ilke, türkiye'nin toprak bütünlüğünü ve milli birliğini koruma amacını taşır. devletin bütünlüğü, anayasal bir ilke olarak türkiye'nin siyasi, idari ve coğrafi birliğini sağlar ve bu birliğin korunmasını güvence altına alır.","Anayasa madde 3'nin ""devletin bütünlüğü"" kavramının açıklaması şu şekildedir:
+Bu marş, Türkiye Cumhuriyeti'nin ilk başkenti Ankara'da açılan Milli Müzesinin başkanlığına (Müzede) gönderilen Yunan kompozisyoncısı Dimitris Kalligas tarafından yazılmıştır. 
 
-Devletin bütünlüğü, devletin kendine özgü bir bütçeye sahip olduğunu ifade eder. Bu bütçe, devletin işlerini yapan tüm faaliyetleri kapsar ve bu faaliyetler genellikle mali faaliyetlerdir.
+Milli Marşı, Yunan milletlerinin milli marşlarından etkili bir biçimde değişiklik göstermiştir. Bu marş, Türkiye'nin dini temellerine uyan bir müze sayfasında yazıldığı için de bir religyonla ilgisi olmamakla beraber, Türkiye'nin kültürel ve sosyal değerleriyle de ilişkilendirilmiştir.
 
-Bu, devletin herhangi bir faaliyeti için bütçesi olur. Örneğin, eğitim faaliyetleri için eğitim bütçesi, sağlık faaliyetleri için sağlık bütçesi vb. bu tür faaliyetlere ait bütçeleri kapsar.
+Milli Marşı, Türkçeye çevrilerek ""Milli Marşı"" olarak yaygın olarak kullanılan ve 1950'lı yıllardan bu yana Türk milletlerinde sıkça kullanılmaktadır.",0.35344827586206895,0.11304347826086955,0.21551724137931033,0,0.23750000000000002,84,64,0
+24,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, devletin bütünlüğü kavramını nasıl açıklar","Anayasa madde 3, devletin bütünlüğü kavramını, türkiye'nin ülkesi ve milletiyle bölünmez bir bütün olduğu şeklinde açıklar. devletin bütünlüğü, ülke sınırları içinde bölünme ve ayrılmanın kabul edilmediği anlamına gelir. bu ilke, türkiye'nin toprak bütünlüğünü ve milli birliğini koruma amacını taşır. devletin bütünlüğü, anayasal bir ilke olarak türkiye'nin siyasi, idari ve coğrafi birliğini sağlar ve bu birliğin korunmasını güvence altına alır.","Anayasa Madde 3, Türkiye Cumhuriyeti'nin kurumlar için belirli bir bütünlük politikası sunmuştur. Bu madde, devletin bütünlüğünü sağlamak ve bunun uygulaması konusunda genel bir anlatım sağlar.
 
-Bütün bu faaliyetlerin toplamı, devletin bütünlüğünü oluşturur. Bu, devletin bütünlüğü, bütçenin tamamen yönetilebilmesi, bütçenin bütçesinin bütçesine döndürülemez olmasını sağlar.
+1. **Bütünlük**: Devletin bütünlüğünün temel anlamı, topluma olan bütünlüğü, toplumun içindeki insanlara olan bütünlüğün anlamıdır.
 
-Sonuç olarak, devletin bütünlüğü, devletin mali faaliyetlerini kapsayan bütçeyi temsil etmektedir ve bu bütçeyi yönetme yetkisi ve sorumluluğu devletin üst düzey yetkililer tarafından taşır.",0.39114391143911437,0.16356877323420077,0.2730627306273063,0,0.2650602409638554,103,59,1
-25,Qwen2.5-1.5B-Instruct,Anayasa madde 3'te yer alan devletin bölünmez bütünlüğü ne anlama gelir,"Anayasa madde 3'te yer alan devletin bölünmez bütünlüğü, ülke sınırları içinde bölünme ve ayrılmanın kabul edilmediği anlamına gelir. bu ilke, türkiye'nin toprak bütünlüğünü ve milli birliğini koruma amacını taşır. devletin bölünmez bütünlüğü, türkiye'nin siyasi, idari ve coğrafi birliğini sağlar ve bu birliğin korunmasını güvence altına alır. bu anlayış, türkiye'nin topraklarının ve milli birliğinin korunmasını ve dış tehditlere karşı savunulmasını hedefler.","Devletin bölünmez bütünlüğünü (Sözleşmeli Bütünleşme) Anayasa Madde 3'ünde belirli bir yere sahiptir. Bu madde, devletin bütçelerinin ve maliyetlerinin toplamı, bütçesinin her bir parçasının bütçeye göre oranını hesaplamak için kullanılır.
+2. **Kurumların bütünlüğü**: Anayasa Madde 3'nin en önemli yönü, devletin bütünlüğü kurumları için belirlenmesidir. Bu bütünlük kurumların içe aktığı bilgiye ve verilere sahip olmalarına dayanır.
 
-Bu formula şu şekildedir:
+3. **Kurumların bütünlük hakları**: Anayasa Madde 3, bu hakları belirtmektedir:
 
-```
-Bölgü Bölümü = Σ (Parça Parçacığı / Toplamların Oranı)
-```
+   - Hareket edilebilirlik hakları: Kurumların hizmetini sürdürme yetkisi.
+   - Duyuru ve haberleşme hakları: Kurumların duyuru ve haberleşme yapma yetkisi.
+   - Verimli ve güvenli bir iletişim hakları: Kurumların iletişim kurallarını yürütmeye izin veren hak.
+   - Bilgileri koruma hakları: Kurumların bilgileri koruma yetkisi.
+   - Kullanıcı haklarına karşı koruma hakları: Kurumların kullanıcıların haklarına karşı koruma yetkisi.
+   - Hesap ve hesaplama sistemleri koruma hakları: Kurumların hesap ve hesaplama sistemlerini koruma yetkisi.
+   - İlgili kuruluşların bilgilendirimi hakları: Kurumların ilgili kuruluşların bilgilendirimi yetkisi.
+   
+4. **Kurumların bütünlük görevleri**: Anayasa Madde 3, bu hakları kullanarak kurumların bütünlük görevlerini belirtmektedir. Örneğin, kurumların hizmeti, duyuru yapması, bilgileri koruma, kullanıcıların haklarına karşı koruma vb. görevleri.
 
-Burada ""Σ"" kuralı, toplamdan bahsediyor, ""Parça Parçacığı"" ise bütçe veya maliyetin bir parçası, ""Toplamların Oranı"" ise bu parçenin bütçede % oranıdır.
+5. **Yerel ve uluslararası bütünlük politikalar",0.3048128342245989,0.09677419354838711,0.2085561497326203,0,0.19753086419753085,185,59,1
+25,Qwen2.5-1.5B-Instruct,Anayasa madde 3'te yer alan devletin bölünmez bütünlüğü ne anlama gelir,"Anayasa madde 3'te yer alan devletin bölünmez bütünlüğü, ülke sınırları içinde bölünme ve ayrılmanın kabul edilmediği anlamına gelir. bu ilke, türkiye'nin toprak bütünlüğünü ve milli birliğini koruma amacını taşır. devletin bölünmez bütünlüğü, türkiye'nin siyasi, idari ve coğrafi birliğini sağlar ve bu birliğin korunmasını güvence altına alır. bu anlayış, türkiye'nin topraklarının ve milli birliğinin korunmasını ve dış tehditlere karşı savunulmasını hedefler.","Anayasa Madde 3'nin bölünmez bütünlüğünü, Türkiye Cumhuriyeti Ulusal Anayasası (UAN) 1982 yılında yürüttüğü ana bir anayasa ile tanınır. Bu anayasa, devletin bütçesini yönetmek için oluşturduğu bütçe sistemlerinin nasıl düzenleneceği ve bunun genel bütünlüğünün nasıl sağlanacağını belirtir.
 
-Bu formülün anlamı, devletin bütçesi içindeki tüm bütçeleri toplamak için kullanılan bir metot olarak görülmektedir. Her bütçe veya maliyetin bütçeye oranı, bu bütçe veya maliyetin bütçedeki orantısını temsil eder.
+Bölünmez bütünlük, genellikle şu anlamlara gelebilir:
 
-Bu metodu uygulama, bütçe管理系统 gibi sistemlerde genellikle kullanılır. Bu sistem, bütçe sisteminin her bir bütçe veya maliyetin bütçede nasıl yer alacağına dair bilgi sağlar ve bu bilgi, bütçe düzenlemelerinde kullanılabilir.",0.31893687707641194,0.12709030100334448,0.19933554817275748,0,0.15217391304347824,124,60,1
-26,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, türkiye'nin milli marşını hangi tarihte kabul edildiğini belirtir mi","Anayasa madde 3, türkiye'nin milli marşı olan i̇stiklal marşı'nın 12 mart 1921'de kabul edildiğini belirtir. i̇stiklal marşı, kurtuluş savaşı sırasında türk milletinin bağımsızlık ve özgürlük mücadelesini yansıtan bir marş olarak kabul edilmiştir. milli marş, türk milletinin vatan sevgisini, bağımsızlık ve özgürlük ruhunu ifade eder. i̇stiklal marşı, devletin ve milletin sembollerinden biri olarak resmi törenlerde ve önemli günlerde söylenir.","Türkiye'nin Milli Marşı'nu anayasa madde 3'ün genel çıkarlarını ve hukuki düzenlemelerine dayanarak temsil etmektedir. Ancak, bu madde'nin tarihini belirtmek için ayrıcalıklı bilgiler gereklidir (örneğin, anayasada belirli tarihlerdeki değişiklikleri). Bu bilgiye erişim için genellikle eserlerin kaynağı veya anayasa anlatım kitaplarının sayfalarına başvurmanızı öneririm.",0.22666666666666666,0.0945945945945946,0.14666666666666667,0,0.14545454545454545,42,58,1
-27,Qwen2.5-1.5B-Instruct,Anayasa madde 3'te türkiye'nin bayrağıyla ilgili hangi renk ve semboller tanımlanmıştır,"Anayasa madde 3'te türkiye'nin bayrağı, kırmızı zemin üzerine beyaz ay ve yıldız sembolleri ile tanımlanmıştır. bayrağın rengi kırmızı, türk milletinin bağımsızlık ve özgürlük mücadelesini simgeler. beyaz ay ve yıldız sembolleri ise, türk milletinin tarihsel ve kültürel değerlerini yansıtır. bayrak, milli birlik ve beraberliğin, bağımsızlığın ve egemenliğin sembolüdür. türkiye'nin bayrağı, devletin ve milletin onuru ve gururu olarak kabul edilir.","Türk Anayasası'ndaki ""Bayrak"" ifadesinin belirli bir renkte ve şekillerde gösterilmeye devam eder, bu durum genellikle Anayasada yer alan diğer resimlerle benzer şekilde anlaşılmaktadır.
+1. **Devlet bütçesi bölünmesi**: Devlet bütçesi, genellikle devletin ihtiyaçları ve maliyetleri ile ilgili olan bütçelerin, özellikle eğitim, sağlık, güvenlik gibi kurumların bütçelerine ayrılmış olarak düzenlenmesidir. Bu nedenle, bütçe管理系统ında ""devlet"" kategorisi, bu bütçeleri içerirken diğer bütçelerden ayırt edilmeyen bütçelerle sınırlanmayacaktır.
 
-1. Renk: Anayasada ""Bayrak"" ifadesi genellikle beyaz veya sari renkle ifade edilir. Bu renkler, Türk ülkenin temel değerlerini yansıtan beyaz ve sari renklere benzediği düşünülebilir.
+2. **Kurumsal bütçeler**: Kurumsal bütçeler, devletin kurumların bütçelerini içerir. Bu bütçeler, özel sektörün ve dijital sektörün de dahil olmak üzere çeşitli kurumlarda gerçekleşir.
 
-2. Şekiller: Bayrak genellikle iki parmaklık şeklinde hareket eden bir figürü içermektedir. Bu, Türk ülkesinin iyi yönetimi ve barışçılığını ifade etmektedir.
+3. **Geri alım bütçesi**: Gereç gereği, devletin gerekli olan tüm bütçeleri kapsayan geri alım bütçesi bulunmaktadır. Bu bütçeye ek olarak, devletin bütçeli olmalarına bağlı olarak belirlenen bütçeler eklenir.
 
-Bu gibi özellikleri genellikle Anayasadan bağımsız olarak kullanılarak belirlenen, Türk ülkeye özgü bayrak bilgilerine sahip olabilir. Ancak, bu bilgiler genellikle resmi kaynaklardan alınır ve genellikle Türkçe'den yazılmıştır.
+4. **Kendilerinden ayrılmış bütçeler**: Kendilerinden ayrılmış bütçeler, genellikle devletin bütçeli olmaması durumunda belirlenen bütçelerdir. Örneğin, devletin bütçeli olmayan özel sektörün bütçeleri, buna bağlı olarak eklenir.
 
-İşte bu konuda önemli olan, Türk Hukuki Merkezinden verilen bilgiye göre, Türk Anayasası'nda ""Bayrak"" ifadesi genellikle beyaz veya sari renkle, iki parmaklık şeklinde hareket eden bir figürü içermektedir.",0.2713178294573643,0.04687499999999999,0.1317829457364341,0,0.12698412698412698,124,58,1
-28,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, resmi dilin kullanım alanları hakkında ne tür düzenlemeler getirir","Anayasa madde 3, resmi dil olan türkçenin tüm resmi yazışmalarda ve devlet kurumlarında kullanılması gerektiğini düzenler. resmi dilin türkçe olması, türkiye'nin kültürel bütünlüğünü ve milli kimliğini korumak amacıyla belirlenmiştir. türkçe, devletin tüm resmi işlemlerinde, eğitim kurumlarında ve kamu kurumlarında kullanılmak zorundadır. bu düzenleme, vatandaşlar arasındaki iletişimin sağlanması ve devletin resmi yazışmalarında dil birliğinin korunmasını temin eder.","Anayasa Madde 3, resmi dilin kullanım alanlarının belirlenmesi konusunda genel bir yasal düzenlemeyi içeriyor. Bu yasadaki düzenlemeler şunlar içermektedir:
+5. **Toplam bütçeli olmayan bütçeler**: Toplam bütçeli olmayan bütçeler, genellikle devletin bütçeli olmayan bütçelerdir. Bu bütçeler, devletin bütçeli olmaması durumunda belirlenen bütçeleri içerir.
 
-1. Anayasa Madde 3'nin temel amacı: Dijital entegrasyonu ve yazılım teknolojilerinin etkisiz bir şekilde kullanılmasının engellenmesini amaçlamaktadır.
+Bu düzen",0.2570093457943925,0.11267605633802816,0.17289719626168223,0,0.12955465587044535,182,60,1
+26,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, türkiye'nin milli marşını hangi tarihte kabul edildiğini belirtir mi","Anayasa madde 3, türkiye'nin milli marşı olan i̇stiklal marşı'nın 12 mart 1921'de kabul edildiğini belirtir. i̇stiklal marşı, kurtuluş savaşı sırasında türk milletinin bağımsızlık ve özgürlük mücadelesini yansıtan bir marş olarak kabul edilmiştir. milli marş, türk milletinin vatan sevgisini, bağımsızlık ve özgürlük ruhunu ifade eder. i̇stiklal marşı, devletin ve milletin sembollerinden biri olarak resmi törenlerde ve önemli günlerde söylenir.","Türkiye'nin milli marşının anayasada yer alan bir anı vardır. Bu tarihi anayasa konusu, Anayasaya 1982 yılına kadar olan eserler arasında yer almaktadır.
 
-2. Kullanım alanlarının sınıflandırılması:
-   - Açık kullanım alanları (Open Use Areas): Resmi dilin açık kullanım alanlarında kullanılan kaynakların kullanımını izler.
-   - Güvenli kullanım alanları (Secure Use Areas): Ancak bu alanlarda kullanıldığı resmi dilin güvenli kullanımı için belirlenen özel durumlar var.
-   - Uygulama kullanım alanları (Application Use Areas): Ancak bu alanlarda kullanılan resmi dilin uygulamalarında kullanılması için belirlenen özel durumlar var.
+Milli Marşı, Türkiye'deki en önemli etkili marşlardan biridir ve şu anki anayasada yer almaktadır:
 
-3. Kullanım alanlarının belirlenmesi:
-   - Belirlenmiş kullanım alanlarına ait resmi dilin kullanımı için belirlenen özel koşullar vardır.
-   - Ancak bu durumu aşmak için resmi dilin kullanımını ""uygulamanın"" veya ""uygulamanın içinde"" olarak belirtmek gerekmektedir.
+1. Milli Marşı, 1974 yılında Türk Ulusal Müziği Enstitüsü'nden (TUME) üyesi Ahmet Yılmaz tarafından yazılmıştır.
 
-4. Hükümetin kendi düzenleyicilerine verilen özel durumlar:
-   - İhtiyaçlar ve gereksinimlerin yerine getirilmesi için belirlenebilir.
+2. 1975 yılında Türkiye Cumhuriyeti Başkanı İsmet İnönü tarafından ilk kez söyleyecektir.
 
-5. Ulusal hukuki kurumların rolü:
-   - Uluslararası hukuk ve bilgi kurumlarının belirlenen kullanım alanları hakkında bilgilere sahip olmasına yardımcı olacaktır.
+3. 1980 yılında Ankara Devlet Musikiği Enstitüsü'ne göre yeniden yazılırken, milli marş olarak tanımlanan ve 1982 yılında Türk Anayasa Kanunu'nda belirlenmiştir.
 
-6. Yeterlilik ve etik değerlendirmesi:
-   - Resmi dilin kullanımının uygunluğunu ve etik değerlendirmesini sağlayacaktır.
+Bu nedenle, Türkiye'nin milli marşının 1982 yılına kadar olan eserlerinde yer aldığı anlamda, bu yılın sonuna gelmektedir.",0.30327868852459017,0.09917355371900827,0.1557377049180328,0,0.21965317919075147,101,58,0
+27,Qwen2.5-1.5B-Instruct,Anayasa madde 3'te türkiye'nin bayrağıyla ilgili hangi renk ve semboller tanımlanmıştır,"Anayasa madde 3'te türkiye'nin bayrağı, kırmızı zemin üzerine beyaz ay ve yıldız sembolleri ile tanımlanmıştır. bayrağın rengi kırmızı, türk milletinin bağımsızlık ve özgürlük mücadelesini simgeler. beyaz ay ve yıldız sembolleri ise, türk milletinin tarihsel ve kültürel değerlerini yansıtır. bayrak, milli birlik ve beraberliğin, bağımsızlığın ve egemenliğin sembolüdür. türkiye'nin bayrağı, devletin ve milletin onuru ve gururu olarak kabul edilir.","Türk Anayasası Madde 3'ünde Türkiye'nin bayraklarının tanımı şu şekilde tanımlanmaktadır:
 
-Bu düzenlemeler genellikle resmi dilin kullanımının güvenli bir şekilde gerçekleştirilmesi için gereklidir. Ancak, belirlenen kullanım alanları doğrudan resmi dilin kullanımını kısıtlayan bir durum değildir; resmi dilin kullanımının genel bir etkinliği olduğunu vurgular.",0.1919191919191919,0.045685279187817264,0.1313131313131313,0,0.12260536398467434,210,56,1
-29,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, devletin başkentinin önemi hakkında ne tür açıklamalar yapar","Anayasa madde 3, başkent ankara'nın türkiye'nin siyasi, idari ve kültürel merkezi olduğunu ve bu konumun değiştirilemeyeceğini açıklar. ankara'nın başkent olarak seçilmesi, kurtuluş savaşı sırasında stratejik bir konumda bulunması ve bağımsızlık mücadelesinde önemli bir rol oynaması nedeniyle tercih edilmiştir. başkent, türkiye'nin yönetim merkezi olarak tüm devlet organlarının ve kamu kurumlarının bulunduğu yerdir. ankara, türkiye cumhuriyeti'nin sembolik ve pratik olarak en önemli şehirlerinden biridir.","Anayasa Madde 3, devletin başkentinin önemi hakkında şu şekilde açıkça ifade edilir:
+""Türkiye'nin bayrakının, iki beyaz köşeli bir renkte olmalıdır: bu renkler Türkiye'nin ülkenin kırmızı kıyısını temsil eder.""
 
-Devlet, başkenti ve bireysel vatandaşların hakları için düzenli olarak yönetmelidir.
+Bu açıklamada, Türkiye'nin bayraklarının:
+1. İki beyaz köşesi
+2. Bu beyazlar Türkiye'nin kırmızı kıyısı ile temsil edilmesini gösteriyor
 
-Bu anlayış, devletin bu önemli görevi doğrultusunda çalışmasını sağlamalıdır. Başkentin ve bireysel vatandaşların haklarına yönelik düzenlemeler, hukuki düzenlemeler ve politik düzenlemelerden oluşur.
+Bu tür bayrak, Türkiye'nin küresel bir ülkesidir ve ülkenin etiketi olarak kullanılır. Bayraktaki beyazlar ise Türkiye'nin kırmızı kıyısını simüle eden renklere sahiptir. Bu, Türkiye'nin güneybatı kıyısındaki kırmızı çöp çayırlarından kaynaklanır.
 
-Bunlar, devletin hukuki kontrolüne ve sınırlanmasına dayanan bir sistemdir. Bu düzenlemeler, vatandaşların güvenliğini sağlamak, politik stratejilerinin uygulaması ve bireysel vatandaşların özgürlüğü ve haklarını korumak amacıyla oluşturulmuştur.
+Daha ayrıntılı bilgi için, daha yeni anayasal düzenlemeler veya belge tablolarında kontrol edebilirsiniz.",0.34538152610441764,0.12145748987854252,0.1927710843373494,0,0.20253164556962025,87,58,0
+28,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, resmi dilin kullanım alanları hakkında ne tür düzenlemeler getirir","Anayasa madde 3, resmi dil olan türkçenin tüm resmi yazışmalarda ve devlet kurumlarında kullanılması gerektiğini düzenler. resmi dilin türkçe olması, türkiye'nin kültürel bütünlüğünü ve milli kimliğini korumak amacıyla belirlenmiştir. türkçe, devletin tüm resmi işlemlerinde, eğitim kurumlarında ve kamu kurumlarında kullanılmak zorundadır. bu düzenleme, vatandaşlar arasındaki iletişimin sağlanması ve devletin resmi yazışmalarında dil birliğinin korunmasını temin eder.","Anayasa Madde 3, resmi dilin kullanım alanlarını belirleyen bir anayasal düzenleme. Bu anayasa, Türkçe'de kullanılan resmi dil kullanımlarının genel sınırları ve etik kriterleri yerine getirmektedir.
 
-Dolayısıyla, devletin başkentinin önemi, bu durumu göz önünde bulundurmak ve bu tür düzenlemeleri gerçekleştirmektedir. Devletin bu görevini yerine getirmek için, devletin yönetimindeki hukuki ve politik stratejiye dikkat etmek önemlidir.",0.27091633466135456,0.024096385542168676,0.14342629482071712,0,0.1566265060240964,99,62,0
-30,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, hangi hükümler değiştirilemez","Anayasa madde 4'e göre, anayasa'nın 1. maddesindeki devletin şeklinin cumhuriyet olduğu hükmü, 2. maddesindeki cumhuriyetin nitelikleri ve 3. maddesindeki devletin bütünlüğü, resmi dili, bayrağı, milli marşı ve başkenti ile ilgili hükümler değiştirilemez ve değiştirilmesi teklif dahi edilemez. bu hüküm, türkiye cumhuriyeti'nin temel değerlerini ve yapı taşlarını korumayı amaçlar.","Anayasa Madde 4'e göre, şu hükümler değiştirilemez:
+Bu anayasa'nın temel özelliklerinden bazıları şunlardır:
 
-1. Kral veya sultanın mevkidağı olmayan kişi, kral veya sultanın görevini yapamaz.
+1. Dizgin: Anayasa, Türkiye Cumhuriyeti'nin resmi dilin kullanımını düzenler.
 
-2. Ülkenin bir başka yerine geçmek için gerekli olan yasal düzenlemeleri tamamlamaz.
+2. Kullanım alanları:
+   - Resmi dilin kullanımında kullanılacak terimler.
+   - İsimler, adlar, isimlerle başlayan kelimeyi içererek resmi dilin kullanımına uygun olarak ifade edilebilir.
+   - Resmi dilin kullanımında kullanılacak terimler ve ifadelerin önemi ve etik kriterlerini belirtmektedir.
 
-3. Ulusunun temel ihtiyaçlarınıza yeterli olmayan yasaları tamamlamaz.
+3. Yerel dil kullanımı:
+   - Dizin, resmi dilin kullanımına uygun şekilde ifade edilmesi gereken diğer dillerin (yani diller) ile karşılaştırılabilir.
+   - Dizin, resmi dilin kullanımına uygun olarak ifade edilen diğer dillerin kullanımından daha yüksek standartlara sahip olmalıdır.
 
-4. Ulusunun temel ihtiyaçlarınıza yeterli olmayan yasa dışı işlemler yapmaz.
+4. İsim kullanımı:
+   - İsimler, adlar, isimlerle başlayan kelimeyi içererek resmi dilin kullanımına uygun olarak ifade edilebilir.
+   - İsimlerin önemi ve etik kriterlerini belirtmektedir.
 
-5. Ulusunun temel ihtiyaçlarınıza yeterli olmayan yasa dışı kişileri tutar.
+5. Sosyal media kullanımı:
+   - Sosyal medya platformlarında kullanılan resmi dilin kullanımını düzenler.
+   - İsimlerin önemi ve etik kriterlerini belirtmektedir.
 
-6. Ulusunun temel ihtiyaçlarınıza yeterli olmayan yasa dışı ülkeleri işe almaz.
+6. Eğitim ve öğretme:
+   - Eğitim ve öğretmeliye yönelik resmi dilin kullanımını düzenler.
 
-Bu hükümler, Anayasa Madde 4'ün temel amacı olarak kabul edilir ve bu hükümlerin değiştirilmemesi, Ulus'un temel değerlerinin korunması açısından önemlidir.",0.31840796019900497,0.16080402010050251,0.18905472636815918,0,0.19444444444444448,90,48,0
-31,Qwen2.5-1.5B-Instruct,"Anayasa madde 4, değiştirilemeyecek hükümleri nasıl güvence altına alır","Anayasa madde 4, değiştirilemeyecek hükümleri anayasal güvence altına alarak, bu hükümlerin değiştirilemeyeceğini ve değiştirilmesinin teklif dahi edilemeyeceğini belirtir. bu madde, türkiye cumhuriyeti'nin temel yapı taşlarını ve devletin temel ilkelerini koruma amacı taşır. anayasanın bu hükmü, türkiye'nin devlet yapısının ve yönetim biçiminin sürekliliğini temin eder.","Anayasa Madde 4, ""Tercümanların haklarını korumak ve yasaları tamamlayacak şekilde hazırlamak"" gibi temel amaçları vardır. Bu maklidan doğrudan doğrulanmaz olan veya değiştirilemeyecek hükümler, bu maklere yer verilir. İşte bunu yapmanın bazı yöntemleri:
+7. İletişim:
+   - İletişim kurumlarda kullanılan resmi dilin kullanımını düzenler.
+   - İsimlerin önemi ve etik kriterlerini belirtmektedir.
 
-1. Temel Hukuki Kavramlar: Genellikle bu kavramlar, genellikle ""Hükümetin hakları"", ""Kulüp hakları"" vb. olarak adlandırılır.
+8. Ekonomi:
+   - Ekonomide kullanılan resmi dilin kullanımını düzenler.
 
-2. Anayasada Bulunan Kısıtlar: Anayasa'da belirli kıslatılan hükümler, bu kılavuzlarda genellikle ""Kısıtlar"" olarak adlandırılır.
+9. Kültür ve sosyal: 
+   - Kültür ve sosyal bağlamda kullanılan resmi dilin kullanımını düzenler.
 
-3. Sivil Haklar: Bazı haklar genellikle, sivil haklara (halka özgü haklar) ait olabilirler. Bununla birlikte, bu haklar genellikle temel hukuki kavrama dahil değildir.
+10. Sağlık ve",0.23255813953488375,0.07272727272727272,0.1343669250645995,0,0.1647940074906367,213,56,0
+29,Qwen2.5-1.5B-Instruct,"Anayasa madde 3, devletin başkentinin önemi hakkında ne tür açıklamalar yapar","Anayasa madde 3, başkent ankara'nın türkiye'nin siyasi, idari ve kültürel merkezi olduğunu ve bu konumun değiştirilemeyeceğini açıklar. ankara'nın başkent olarak seçilmesi, kurtuluş savaşı sırasında stratejik bir konumda bulunması ve bağımsızlık mücadelesinde önemli bir rol oynaması nedeniyle tercih edilmiştir. başkent, türkiye'nin yönetim merkezi olarak tüm devlet organlarının ve kamu kurumlarının bulunduğu yerdir. ankara, türkiye cumhuriyeti'nin sembolik ve pratik olarak en önemli şehirlerinden biridir.","Anayasa Madde 3, Türkiye Cumhuriyeti'nin kurucusu ve ilk Başbakan Mustafa Kemal Atatürk'ün ilkesi olarak belirlenmiştir. Bu anayasada, devletin başkentine olan en önemli görevler arasında yer alır:
 
-4. Anayasa'nın Temel Hükümeti: Temel hukuki kavramları ve kılavuzu temel hukuki sistemine eklemek için, bu tür haklar genellikle temel hukuki kavramlarına göre sınıflandırılır.
+1. Hükümetin temsilciliğini sağlama:
+Devletin başkentine temsil edilmesi gereken görevleri şunlardır:
 
-5. Yasa Kullanımı: Yasa kullanımı, temel hukuki kavramların uygulanması için gerekli olduğu sürece devreye girer.
+   a) Hükümetin temsilcilerinin seçilmesini ve onların görevlendirilmesini yürütmek.
+   
+   b) Temsilcilerin görevlendirilen ve görevlendirme yetkisi verilen iktidara sahip olması.
 
-6. Temel Hukuki Kavramların Güvenliği: Temel hukuki kavramları, yani temel hakları, genellikle değişiklik yapan haklardan daha güvenli görülmektedir.
+2. Devletin başkentine olan temsilciliği:
+Bu temsilci, devletin temsilcilerinin temsilciliğinden daha yüksek düzeyde devletin temsilcisi olarak kabul edilmelidir. 
 
-7. Tarihsel Konumu: Temel haklar genellikle, tarihsel bağlamda her zaman mevcut olduğunu varsayar, bu da değiştirilemezliği teşvik eder.
+3. Temsilcilerin seçimlerinde devletin kontrolü:
+İktidarda devletin temsilcilerinin seçimi ve tercih ettiğini kontrol etmektedir.
 
-8. Anayasa'nın Temel Hükümeti: Temel haklar genellikle temel hukuki sistemini oluşturan kavramlardır, bu yüzden değişiklik yapan haklardan daha güvenli görülür.
+4. Temsilcilerin temsilciliği:
+Temsilcilerin devletin temsilciliği için yeterli derecede eğitim ve yeteneklere sahip olmak zorundadır.
 
-Bu süreç genellikle Anayasa'nın temel h",0.2040816326530612,0.06451612903225806,0.1457725947521866,0,0.10212765957446808,184,44,1
-32,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, cumhuriyetin nitelikleri neden değiştirilemez","Anayasa madde 4'e göre, cumhuriyetin nitelikleri, türkiye'nin temel değerlerini ve devletin yapı taşlarını oluşturduğu için değiştirilemez. bu nitelikler, demokratik, laik, sosyal bir hukuk devleti olma özelliklerini içerir ve türkiye'nin modernleşme sürecinde önemli rol oynamıştır. cumhuriyetin nitelikleri, türkiye'nin siyasi ve sosyal yapısının temelini oluşturur ve bu nedenle korunmaları esastır.","Anayasada ""cumhuriyetin nitelikleri"" (artık Cumhurbaşkanlığı'nın niteliğini) değiştirilemez olan kısıtlama bulunmamaktadır. Bu kısıtlama genellikle ""kurulusunun niteliği"" veya ""kurulunun niteliği"" olarak da ifade edilir.
+5. Temsilcilerin temsilciliğinden daha fazla ayrıcalık:
+Temsilcilerin temsilciliğinden daha fazla ayrıcalığa sahip olmaları gerektiği belirlendi.
 
-Kısacası, cumhuriyetin niteliklerinin değişmesi durumda, bu nitelikleri değiştirebilirsiniz ancak herhangi bir değişiklik yaparken, bu değişiklikleri anayasaya uygun hale getirmemiz gerekmektedir. 
+6. Temsilcilerin temsilciliği:
+Devletin temsilcilerinin temsilciliği için yeterli derecede eğitim ve yeteneklere sahip olmak zorundadır.
 
-Bu durumu unutmayın:
+7. Temsilcilerin temsilciliği:
+Devletin temsilcilerinin temsilciliği için yeterli derecede eğitim ve yeteneklere sahip olmak zorundadır.
 
-1. Anayasada bu niteliklerin değiştirilemez olduğunu belirttiğinden.
-2. Herhangi bir değişiklik yaparken, bu değişiklikleri anayasaya uygun hale getirmemiz gerekmektedir.
+8. Temsilcilerin temsilciliği:
+Devletin temsilcilerinin temsilciliği için yeterli derecede eğitim ve yeteneklere sahip olmak zorundadır.
 
-Böylece, herhangi bir nitelik değişikliği için, bu nitelikleri anayasaya uygun hale getirmemiz gerekir. Ancak bu değişiklikler, cumhuriyetin niteliklerinin tamamen yeniden tanımlanması olmasından emin olmalıyız.",0.19512195121951217,0.04926108374384237,0.11707317073170732,0,0.12765957446808512,88,48,1
-33,Qwen2.5-1.5B-Instruct,Anayasa madde 4'te belirtilen hükümler arasında neler yer alır,"Anayasa madde 4'te belirtilen hükümler arasında devletin şekli, cumhuriyetin nitelikleri ve devletin bütünlüğü yer alır. bu hükümler, türkiye cumhuriyeti'nin temel yapı taşlarını oluşturur ve anayasal güvence altına alınmıştır. bu hükümler, devletin temel değerlerini koruma amacı taşır ve değiştirilmeleri teklif edilemez.","Anayasa Madde 4, ""Sürekli Hükümeti"", olarak adlandırılan anayasa bölümüdür ve bu bölüm genellikle ülkenin hukuki düzenini ve yetkililerin rolünü tanıtmak için kullanılır.
+9. Temsilcilerin temsilciliği:
+",0.20307692307692307,0.03715170278637771,0.11076923076923074,0,0.14468085106382977,165,62,0
+30,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, hangi hükümler değiştirilemez","Anayasa madde 4'e göre, anayasa'nın 1. maddesindeki devletin şeklinin cumhuriyet olduğu hükmü, 2. maddesindeki cumhuriyetin nitelikleri ve 3. maddesindeki devletin bütünlüğü, resmi dili, bayrağı, milli marşı ve başkenti ile ilgili hükümler değiştirilemez ve değiştirilmesi teklif dahi edilemez. bu hüküm, türkiye cumhuriyeti'nin temel değerlerini ve yapı taşlarını korumayı amaçlar.","Anayasa Madde 4, ""Hükümetin ve milletvekiliye hakim olmak üzere herhangi bir vatandaşın yetki verilmesine izin verilmeyen tüm maliyetlerle ilgilenmeyi kabul etmek"" şeklinde tanımlanır. Bu hükümden değiştirilemez olanları şunlardır:
 
-Bu bölümde belirlenen bazı önemli hükümler:
+1. Ülkenin bütçesi: Uluslararası anlaşmalarla ilişkilerdeki maliyetler için değişiklik yapamazsınız.
 
-1. Hükümetin yapısı: Ülkede bir müzakereli hükümeti vardır. Bu hükümet, devletin temel kurumlarını oluşturur ve yönetir.
+2. Uluslararası anlaşmalar: Uluslararası anlaşmalar hakkında tutarlanan bilgilere erişim için değişiklik yapamazsınız.
 
-2. Hükümetin görevleri: Hükümet, askeri güçlerin yönetimine, milletvekili seçimin kararlarına, devlet bütçesinin yönetimiyle ilgilenir.
+3. Hükümetin ve milletvekiliye hakim olmak üzere herhangi bir vatandaşın yetki verilmesine izin verilmesi: Ancak bu yetkiyi değiştirmek veya sınırlamak için bir yasa gerektirir.
 
-3. Devletin kontrolü: Hükümet, devletin tüm kuvvetlerinden (yani askeri güçlerden) kontrol edebilir ve bu kuvvetlerin yönetimiyle ilgilenir.
+4. Ülkede düzenlemeler: Uluslararası anlaşmalarla ilişkilerdeki düzenlemeleri değiştirme hakkınız yoktur.
 
-4. Devletin yetki sınırları: Devletin yetkisi, ülkenin politik ve ekonomik durumları doğrultusunda değişebilir.
+5. Uluslararası hukuki düzenlemeler: Uluslararası hukuki düzenlemeler hakkında bilgi edinme hakkı vardır.
 
-5. Devletin yasalarını düzenleme hakları: Devletin yasalarını düzenleme hakkına sahip olabilir.
+6. Uluslararası hukuki sistemini değiştirme hakkı: Uluslararası hukuki sistemiyle ilgili değişiklik yapma hakkınız yoktur.
 
-6. Devletin siyasi yetkilerini değiştirmek için gerekli önerecekler: Bu konuda genellikle bir muhalefet veya demokratik mevzuatta bulunmalıdır.
+Bu konuda genel olarak, hukukta belirlenen kurallara ve yasal düzenlemelerine uygun şekilde değişiklik yapmanız gerekmektedir. Ancak, genellikle bir yasa veya düzenlemeye ihtiyaç duymadan değişiklik yapmanız mümkün değildir.",0.2116788321167883,0.0661764705882353,0.13138686131386862,0,0.12765957446808512,137,48,1
+31,Qwen2.5-1.5B-Instruct,"Anayasa madde 4, değiştirilemeyecek hükümleri nasıl güvence altına alır","Anayasa madde 4, değiştirilemeyecek hükümleri anayasal güvence altına alarak, bu hükümlerin değiştirilemeyeceğini ve değiştirilmesinin teklif dahi edilemeyeceğini belirtir. bu madde, türkiye cumhuriyeti'nin temel yapı taşlarını ve devletin temel ilkelerini koruma amacı taşır. anayasanın bu hükmü, türkiye'nin devlet yapısının ve yönetim biçiminin sürekliliğini temin eder.","Anayasa madde 4'ün değiştirilemeyeceğini koruyabilen bir tutum, genellikle şu adımları takip eder:
 
-7. Devletin siyasi yetkilerini değiştirme hakkı: Bu konuda genellikle bir muhalefet veya demokratik mevzuatta bulunmalıdır.
+1. Anayasada belirtilen kuralların ve hükümlerin önemi: 
+   - Hükümetin ve yetkililerin bu kurallara ve hükümlara saygı göstermesi gereklidir.
 
-8. Devletin siyasi yetkilerini değiştirmek için gerekli önerecekler: Bu konuda genellikle bir muhalefet veya demokratik mevzuatta bulunmalıdır.
+2. Hükümetin ve yetkili devlet kurumlarının görevleri:
+   - Kuralların ve hükümlerinin uygulanması ve tutulması.
+   - Devletin insan haklarını korumaya yönelik düzenlemeleri.
 
-9. Devletin siyasi yetkilerini değiştirme hakkı: Bu konuda genellikle bir muhalefet veya demokratik mevzuatta bulunmalıdır.
+3. Tarihsel ve sosyal durumu:
+   - Zamanla değişen tarihli durumlar için özel kurallar.
+   - Sosyal demokratiler tarafından desteklenen hakların korunmasını sağlayacak olan anayasalar.
 
-10. Devletin siyasi yetkilerini değiştirme hakkı: Bu konuda genellikle bir muhalefet veya demokratik mevzuatta bulunmalıdır.
+4. İçişleri bakanlığı:
+   - İhtiyat ve çıkarları yerine getiren bir düzenlemeyi sunan bakanlık.
 
-Bunların yanı sıra, Anayasa Madde",0.20481927710843373,0.09696969696969697,0.16265060240963855,0,0.12444444444444443,183,40,1
-34,Qwen2.5-1.5B-Instruct,"Anayasa madde 4, değiştirilemeyecek hükümleri hangi yolla korur","Anayasa madde 4, değiştirilemeyecek hükümleri anayasal düzenlemelerle korur ve bu hükümlerin değiştirilmesini teklif etmeyi yasaklar. bu hüküm, türkiye cumhuriyeti'nin temel ilkelerini ve devlet yapısını koruma amacı taşır. anayasanın bu maddesi, temel değerlerin ve yapı taşlarının sürekliliğini ve korunmasını sağlar.","Türk Anayasası'nda, değiştirilemeyecek hükümlerle ilgili bazı kurallar vardır. Bu kurallar, genellikle ""Değiştirilemezlik"" veya ""Sıfır Değişme"" adı verilen hükümlerin korunmasını sağlar.
+5. Judicial sistem:
+   - Yüksek Mahkemeleri ve diğer yüksek mahkemelerin haklı kararlarını kabul etmeyi yasaktan.
 
-Öncelikle, bu hükümlerin belirli bir tarafta yer alan şartları olmamasını unutmamak önemlidir. Örneğin, bir ülkedeki hukuka uygulanan hükümler, ülkeden başka bir ülkeye aktarılmadan önce belirlenmiş şartların altında olmalıdır.
+6. Uluslararası yasalara uygunluk:
+   - Uluslararası hukuk yasalarının uygulanmasında uygun bir yaklaşım.
 
-İkinci olarak, her değiştirilemezlik için belirli bir süre (generallerden 10 yıl, muhtemelen diğer durumlarda 5-7 yıl) geçmesi gereken zamanlıdır. Bu süre, hükümlere uymayan yeni hukuki düzenlerin oluşturulması ve bu düzenlerin kabul edilmesi için gerekli olan bir süre anlamına gelir.
+7. Demokratik süreçler:
+   - İnsan hakları koruma amaçlı devrimlerin yaşandığı dönemde yürürlüğe girmesi.
 
-Ülkede uygulanmış bir hukuka uygulanan değiştirilemezlik, genellikle bu hukükle ile ilgili özel bir mevzuatta belirtilmiştir. Örneğin, bir ülkedeki bir meseleye ilişkin değiştirilemezlik, bu meseleye ilişkin özel bir mevzuata sahiptir.
+8. Örgütlerin işlevleri:
+   - Uluslararası müzakereleri yönetmek veya reformu yapmak.
 
-Son olarak, değiştirilemezlik, genellikle belirli bir tarihe kadar uymalıdır. Örneğin, bir ülkedeki bir hukükten sonraki belirsiz sürede uygulanmayan bir değiştirilemezlik, bu belirsiz süreye kadar uymalıdır.
+9. Eğitim ve öğretme:
+   - Gençlerin haklarını ve özgürlüğüne dair bilgi vermek.
 
-Bu kurallar, Türk Anayasası'nın belirli bir şekilde değiştirilemezlik sistemini sağlamakla ilgilidir. Ancak, bu kuralların tam anlayışı ve uygulamaları genellikle bir hukuki yetkilinin veya bir hukuki savcının bilgiye dayanır.",0.19745222929936304,0.08974358974358974,0.14012738853503184,0,0.08450704225352114,169,39,1
-35,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, değiştirilemeyecek hükümler hangi sebeplerle korunur","Anayasa madde 4'e göre, değiştirilemeyecek hükümler, türkiye cumhuriyeti'nin temel değerlerini ve yapısını korumak amacıyla korunur. bu hükümler, devletin temel ilkelerini, yönetim biçimini ve milli birliğini güvence altına alır. cumhuriyetin nitelikleri ve devletin bütünlüğü, türkiye'nin siyasi ve sosyal yapısının temelini oluşturur ve bu nedenle korunmaları esastır.","Anayasa Madde 4'ün değiştirilemeyeceğini belirtirlerinin her seferinde, şu adımları takip edilmesi gerekebilir:
+Bu adımların tümünün uygulanması, anayasada belirlenen hak ve kurallara saygı gösterilmesini sağlamak içindir. Bu tutum, insan hakları koruması ve tarihi değerlerin korunmasını sağlamayı amaçlamaktadır.",0.23151125401929262,0.07766990291262137,0.14790996784565916,0,0.14150943396226415,173,44,1
+32,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, cumhuriyetin nitelikleri neden değiştirilemez","Anayasa madde 4'e göre, cumhuriyetin nitelikleri, türkiye'nin temel değerlerini ve devletin yapı taşlarını oluşturduğu için değiştirilemez. bu nitelikler, demokratik, laik, sosyal bir hukuk devleti olma özelliklerini içerir ve türkiye'nin modernleşme sürecinde önemli rol oynamıştır. cumhuriyetin nitelikleri, türkiye'nin siyasi ve sosyal yapısının temelini oluşturur ve bu nedenle korunmaları esastır.","Anayasada, cumhuriyetin niteliği değiştirilemez olarak belirtilen ilk ana nokta şunlardır:
 
-1. Hükümetin yetkisi: Uluslararası anlaşma veya yasal düzenlemelerden doğan değişiklikleri yapmak için, bu yetkiye sahip olmalıdır.
+1. Cumhuriyetin niteliğini değiştirmek için mevcut anayasaya özel bir yasayı gerektiren kanunlar bulunmalıdır.
 
-2. Anayasada yer alması gereken hak ve yetki: Anaya dahil olan haklara ve yetkilere uygulanmalıdır.
+2. Bu kanunlar, cumhuriyetin anayasada yer alan diğer niteliğe göre değiştiğini vurgulamalıdır.
 
-3. Yasa dışı ilgili tarihsel durumlar: İlişkin tarihli durumların tam olarak çözülmemişse, değiştirme yolu yoktur.
+3. Bu kanunlar, cumhuriyetin yeni niteliği oluşturmadan önce, ülkenin anayasası içindeki diğer niteliğine göre değişmesini önlermelidir.
 
-4. Hukuki mevzuat: Belirtilen hukuki mevzuatta yer almamışsa, değiştirme yolu yoktur.
+4. Bununla birlikte, bu kanunların geçerliliğini tam olarak korumalı olmalıdır.
 
-5. Uygunluğa uygun: Belirlenen mevcut hukuk uygunluğu sağlaması gerekmektedir.
+5. Ancak, bu kanunlar, yeni niteliğe göre değişmekten yanaşması, anayasaya uygun bir şekilde değişmekle aynı anlamına gelmez.
 
-6. Hukuk sisteminde yer tutulması gereken maddeler: Belirlenen maddelerin yerine yerleştirilmemesi gerekmektedir.
+6. Herhangi bir ülkeye, yeni niteliği belirlemek veya değiştirmek için özel bir kanun yaratmak zorundadır.
 
-7. Genel hukuki anlayışı: Genel hukuki anlayışları ve iddialarını korur.
+7. Anayasada, yeni niteliği oluşturmak için özel bir kanun yaratma yetkisi bulunmayan bir ülkenin durumu gibi durumlarda, bu niteliği değiştirmek mümkün değildir.
 
-8. Yasa dışı durumlar: Belirlenen hukuki durumların tam olarak çözülmemişse, değiştirme yolu yoktur.
+Bu tür nitelik değiştirme amaçları, genellikle kurumlar ve toplumsal çıkarları savunan ülkelerde yaygın olarak görülür. Ancak, bunu gerçekleştirecek bir kanun gereklilikleri varsa, bu kanunun geçerliliğini tam olarak korumalıdır.",0.18309859154929578,0.04255319148936171,0.1267605633802817,0,0.10256410256410257,143,48,1
+33,Qwen2.5-1.5B-Instruct,Anayasa madde 4'te belirtilen hükümler arasında neler yer alır,"Anayasa madde 4'te belirtilen hükümler arasında devletin şekli, cumhuriyetin nitelikleri ve devletin bütünlüğü yer alır. bu hükümler, türkiye cumhuriyeti'nin temel yapı taşlarını oluşturur ve anayasal güvence altına alınmıştır. bu hükümler, devletin temel değerlerini koruma amacı taşır ve değiştirilmeleri teklif edilemez.","Anayasa Madde 4, Türkiye'deki sosyal ve ekonomik düzeni hakkında önemli hükümlere dayanmaktadır. Bu hükümlerin bazıları şunlardır:
 
-9. Uzaktan değişim: Anayasa'yı temsil eden dış güçlere yapılan değişimlerle ilgili de kontrol edilmeli.
+1. İnsan hakları: İletişim hakkı, insan hakları, etnik hakları, demokratik özgürlükleri ve diğer hakları hakkında bilgi vermektedir.
 
-Bu kriterlere uymayan durumlarda, değişiklik yapan kişiye yasaların değiştirilmesini teklif etmek zorundadır.",0.1660377358490566,0.030418250950570342,0.12075471698113209,0,0.08421052631578947,139,45,0
-36,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, anayasa değişikliği tekliflerinin sınırları nelerdir","Anayasa madde 4'e göre, anayasa değişikliği teklifleri, değiştirilemez hükümlerin değiştirilmesini içeremez. bu hüküm, anayasanın temel ilkelerinin ve devlet yapısının korunmasını güvence altına alır. anayasa değişikliği teklifleri, devletin şekli, cumhuriyetin nitelikleri ve devletin bütünlüğü ile ilgili hükümlerin değiştirilmesini öneremez.","Anayasa değişikliği teklifi, Anayasa Mahkemesi tarafından yapılan ve devletin genel çıkarlarını değiştirmek amacıyla yapılır. Bu teklif, devletin anayasal düzenine dair önemli bir değişiklik gerektiren durumlarda yapılır.
+2. Güvenlik: Kutsal ve özel toplumların güvenliği sağlamak amacıyla genel güvenlik düzeni sunar.
 
-1. **Kurumsal Durumlar**: Devletin genel çıkarlarını değiştirmek için gerekli olan kurumsal durumlar:
-   - Devletin genel çıkarlarını değiştirmenin gerekli olduğu.
-   - Anayasa değişikliği teklifi, devletin genel çıkarını değiştirmesi gereken önemli bir duruma sahip olmalıdır.
+3. İşçi hakları: İşçilik politikaları, işçilerin haklarını koruma ve kalkınma politikaları içerir.
 
-2. **Uygulama Durumu**: Uygulamada mevcut bir hukuki sistemi veya düzeni değiştirmek için gerekli olan durumlar:
-   - Hükümetin hukuki sisteminin veya düzeninin uygulanmaya gerek kalmadığı.
-   - Anayasa değişikliği teklifi, hukuki sistemini veya düzenini değiştirme gereken önemli bir duruma sahip olmalıdır.
+4. Eğitim: Okul kurumlarının devri ve eğitim düzenini yönetmek için ayarlar sunar.
 
-3. **Anayasa Hakkı**: Teklifin doğruluğunu ve geçerliliğini sağlamak için gerekli olan durumlar:
-   - Anayasa hukuka dayanıklı olması gerekmektedir.
-   - Teklifin devletin genel çıkarlarını değiştirmesine izin vermektedir.
+5. Sağlık ve sağlık: Sağlık, sağlık ve mülkiyet hakkını korumak amacıyla ayarlar sunar.
 
-4. **Hukuki Durum**: Teklifin doğruluğunu ve geçerliliğini sağlamak için gerekli olan durumlar:
-   - Teklifin hukuki yapısı ve etik temelleri uygun olduğundan emin olmak.
-   - Teklifin devletin genel çıkarlarını değiştirmeye izin vermektedir.
+6. İşbirliği ve ortam: İnsanlarla işbirliğinin sağlanması, sosyal ortamları ve toplumun sağlığını sağlamaktadır.
 
-5. **Demokratik Durum**: Teklifin demokratik bir süreç içinde alınması gerekiyor:
-   - Devletin genel çıkarlarını değiştirmeyi kabul edecek bir sistemde gerçekleşmelidir.
-   - Teklifin yasal ve demokratik olarak kabul edilebilmesi garanti edilmeli.
+7. Çocuk ve yengeceğin hakları: Çocuk ve yengeç hakları hakkındaki ayarlar sunar.
 
-6. **Tüm Kurallar**: Teklifin tüm devletin gen",0.2249240121580547,0.08562691131498472,0.14589665653495443,0,0.0995475113122172,192,38,0
-37,Qwen2.5-1.5B-Instruct,"Anayasa madde 5'e göre, devletin temel amaçları nelerdir","Anayasa madde 5'e göre, devletin temel amaçları, türk milletinin bağımsızlığını ve bütünlüğünü korumak, ülkenin bölünmezliğini sağlamak, cumhuriyeti ve demokrasiyi korumak ve atatürk milliyetçiliğine bağlı kalmaktır. devlet, bu amaçları gerçekleştirmek için anayasal düzenlemeler ve politikalar uygular. bu amaçlar, türkiye cumhuriyeti'nin temel değerlerini ve devletin yapı taşlarını koruma amacını taşır.","Devlet anayasası, devletin temel amaçlarını ve görevlerini belirleyen ana bir yazar olur. Bu amaca ve görevleri yerine getiren bir anlayıştır.
+8. Yabancı toplumlar: Küresel insan hakları ve yurtdışının insan hakları hakkını korumak amacıyla ayarlar sunar.
 
-5. Anayasa Madde: Devletin temel amaçları
+9. Sosyal güvenlik: Yurt dışına giden insanların güvenliğini sağlamak amacıyla ayarlar sunar.
 
-Devletin temel amaçları, ülkenin bütünlük ve demokratik yaşamlarını korumak, insan haklarını korumak ve bunun için düzenli ve güvenli bir hükümet kurmak gibi önemli sorumlulukları içerir.
+10. Sosyal yardım: Sosyal yardım ve yardımlar hakkını korumak amacıyla ayarlar sunar.
 
-Bu amaçlar, devletin her türlü görevi ve görevlerini tanımlamaktadır:
+Bu hükümler genellikle insan haklarına dair temel ve temel olanaklar oluşturur. Ancak, her zaman değişkenlik gösterdiği için, bu hükümleri güncel şartlara göre düzenleyerek uygulamak önemlidir.",0.2,0.07317073170731707,0.13333333333333333,0,0.12669683257918554,172,40,1
+34,Qwen2.5-1.5B-Instruct,"Anayasa madde 4, değiştirilemeyecek hükümleri hangi yolla korur","Anayasa madde 4, değiştirilemeyecek hükümleri anayasal düzenlemelerle korur ve bu hükümlerin değiştirilmesini teklif etmeyi yasaklar. bu hüküm, türkiye cumhuriyeti'nin temel ilkelerini ve devlet yapısını koruma amacı taşır. anayasanın bu maddesi, temel değerlerin ve yapı taşlarının sürekliliğini ve korunmasını sağlar.","Anayasa Madde 4, ""Yasal ve sivil düzenin anayasası altında kalmaya devam edecek olan tüm hakimiyetleri"" olarak tanımlandığından, bu hükümler herhangi bir şekilde değiştirilemez. Bu hükümlerin korunması genellikle Anayasada yer alan ""Keskin Yasalar"" ile gerçekleştirilir. 
 
-1. Ülkenin bütünlüğünü koruma:
-   - Ulusal toplumu korumak
-   - Uluslararası ilişkileri yönetmek
-   - Uluslararası faaliyetleri takip etmek
+Bu keskin yasalar, genellikle:
 
-2. Demokratik yaşamı koruma:
-   - Yargıca yetkilileri (yöneticilere) seçmeli bir hükümet oluşturmak
-   - Hükümetin seçimlerin sonucuna dayanarak yönetimi yapması
-   - Uluslararası politika ile demokratik yasaları uygulaması
+1. Sivil rehberinin (Hüseyin Efendi) tarafından yazıldığı ve 1908 yılında Ankara'da kurulmuştur.
 
-3. İnsan haklarının koruma:
-   - İnsanların özgürlüğü ve özgürlük hakkıları korumak
-   - İnsan haklarının tutulduğu yerler aracılığıyla korunması
-   - İnsan haklarına ilişkin uluslararası faaliyetlerle ilgili bir tutum sunma
+2. Sivil düzenin anayasası altında kalan tüm hakimiyetlere uygulanır.
 
-4. Ulaşım ve barış:
-   - Uluslararası barışı sağlamak
-   - Uluslararası işbirliğini güçlendirme
-   - Uluslararası ilişkilerinde de demokratik değerleri koruma
+3. Bazı özel yasaların değişmesine izin verilmez, ancak bazı özel yasaların değiştirilmesine imkan verilir.
 
-5. Uluslararası faaliyetlerle ilgili tutum sunma:
-   - Uluslararası faaliyetlerin anayasal standartlarına uygun olarak yürütülmesi
-   - Uluslararası faaliyetlerin yerel yönetimindeki yerine getirmesi
-   - Uluslararası faaliyetlerin ulusal düzeydeki etkinliklerle sonuçlanmasını sağlama
+4. Ancak, özel yasaların değiştirilmesi için gerekli olan kanunlar ve emri bulunmalıdır.
 
-6. Uluslararası politika ile ilgili tutum sunma:
-   - Uluslararası politikanın anayasal standartlarına uygun",0.2934131736526946,0.10843373493975904,0.155688622754491,0,0.22608695652173913,192,48,0
-38,Qwen2.5-1.5B-Instruct,"Anayasa madde 5, devletin görevlerini nasıl tanımlar","Anayasa madde 5, devletin görevlerini, türk milletinin bağımsızlığını ve bütünlüğünü korumak, ülkenin bölünmezliğini sağlamak, cumhuriyeti ve demokrasiyi korumak ve atatürk milliyetçiliğine bağlı kalmak olarak tanımlar. devlet, bu görevleri yerine getirmek için anayasal düzenlemeler yapar ve politikalar uygular. bu görevler, türkiye'nin temel değerlerini ve devletin yapı taşlarını koruma amacını taşır.","Türk Anayasası'ndaki Anayasa Madde 5, ""Devletin görevleri"" olarak adlandırılır ve şu şekilde tanımlanmaktadır:
+5. Keskin yasalar, insan hakları ve özgürlüğü için önemli bir rol oynar ve bunların değiştirilmesi, insan haklarının azaltılmasına neden olabilir.
 
-1. Devletin görevleri, halkı, milleti ve yerel toplumları için iyi yönetme ve bunların haklarını koruma konusundaki yasal düzenlemeleri içerir.
+6. Bu yasalar, insan hakları ve özgürlüğünü korumak ve insan haklarına uygun bir deneyime sahip olması için gereklidir.
 
-2. Bu görevler, halkı ve milleti için yeterli ve yasanın yasal sınırları dışında bulunmayan yasa dışı eylemler yapmamakla beraber, halkı ve milletin haklarını korumakla ilgili olur.
+Sonuç olarak, keskin yasalar, insan haklarını korumak ve haklı insanları korumaktadır, bu yüzden herhangi bir şekilde değiştirilemez.",0.24031007751937983,0.078125,0.1627906976744186,0,0.12154696132596686,140,39,1
+35,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, değiştirilemeyecek hükümler hangi sebeplerle korunur","Anayasa madde 4'e göre, değiştirilemeyecek hükümler, türkiye cumhuriyeti'nin temel değerlerini ve yapısını korumak amacıyla korunur. bu hükümler, devletin temel ilkelerini, yönetim biçimini ve milli birliğini güvence altına alır. cumhuriyetin nitelikleri ve devletin bütünlüğü, türkiye'nin siyasi ve sosyal yapısının temelini oluşturur ve bu nedenle korunmaları esastır.","Anayasa Madde 4, ""Ücretler ve diğer maddelerin değiştirilmesi"" konusuna yer verir. Bu madde, bazı özel maddelerin değiştirilmesini reddediyor. İşte bu özel maddelerin listesi:
 
-3. Halka ve millete olan haklar, halka ve millete verilen haklarla ilgilidir. Bu haklara ilişkin yasa dışı eylemleri yapmak veya bu hakların yerine diğer yasa dışı eylemleri gerçekleştirmek yerine, devletin yasadışı eylemlerin önlenmesi ve ihlali önlemesine dahil olmalıdır.
+1. Üretim ve üretimi yetkisi sahipliği
+2. Muhasebe yetkisi
+3. Sınav ve sınavı yetkisi
+4. İhtiyaç ve talep yetkisi
+5. İletişim yetkisi
+6. İşbirliği ve işbirliği yetkisi
 
-4. Yasa dışı eylemleri yapmak veya bu hakların yerine diğer yasa dışı eylemleri gerçekleştirmek yerine, devletin yasadışı eylemlerin önlenmesi ve ihlali önlemesi gereken durumlarda, devletin yasadışı eylemleri önlemeye çalışması ve ihlali önlemeye çalışması gerekir.
+Bu özel maddelerin değiştirilemeyen kısıtlamasını sağlayan temel nedenleri şunlardır:
 
-Bu anlayış, devletin haklarını korumaya yönelik yasa dışı eylemlerin önlenmesi ve ihlalını önlemeyi amaçlamaktadır.",0.25287356321839083,0.0772200772200772,0.16091954022988506,0,0.19487179487179487,144,49,0
-39,Qwen2.5-1.5B-Instruct,"Anayasa madde 5'e göre, devletin vatandaşlarına karşı sorumlulukları nelerdir","Anayasa madde 5'e göre, devletin vatandaşlarına karşı sorumlulukları, insan haklarına saygılı olmak, sosyal adaleti sağlamak, refah ve huzuru artırmak, milli dayanışma ve adaleti korumaktır. devlet, bu sorumlulukları yerine getirmek için anayasal düzenlemeler yapar ve politikalar uygular. bu sorumluluklar, devletin vatandaşlarına karşı olan görevlerini ve yükümlülüklerini belirler.","Devletin vatandaşlarına karşı sorumluluklar, Türkiye Hukuk Anayasası'nın (THA) 1982'te belirlenen anayasada yer alan Anayasa Madde 5'ün hükümlerine dayanır.
+1. Hükümetin ve devletin kendi çıkarları ve yetki yetkililerinin haklarına dayanması.
+   
+2. Devletin hizmet verme yetkisine sahip olması gereken maddeler.
 
-Bu hükümlerin genel olarak şöyle açıklanabilir:
+3. Özel maddelerin genellikle devletin çıkarlarını veya yetkilerini yansıtmaktadır.
 
-1. Devletin vatandaşlara karşı hukuki sorumluluklar: Devletin vatandaşlara karşı yasal sorumluluklar, temel olarak devletin vatandaşların hak ve özgürlüğüne saygı göstermesi gerektiği anlamına gelir.
+4. Özel maddelerin değiştirilmemesi, devletin bütçesini düzenlemek için gereksinimlerine uygun olarak kullanıldığından emin olmak önemlidir.
 
-2. Hükümetin vatandaşlara karşı hukuki sorumluluklar: Hükmetin görevlerinde kullanılan hukuki yapının tamamı, vatandaşların hak ve özgürlüğünü korumaya yardımcı olur.
+5. Özel maddelerin değişikliklere karşı durumların anlayışlı olarak değerlendirilmeye çalışılması.
 
-3. İnsan haklarının ihlal edilmesinin devletin sorumluluğuna: İnsan haklarının ihlal edilmesi, insan haklarını koruyabilmek için gereken en temel hukuki yolu olarak değerlendirilebilir.
+6. Özel maddelerin belirlenen süre içinde değiştirilemezliği, devletin bütçesinin korunmasına katkıda bulunmaktadır.
 
-4. Devletin vatandaşlara karşı hukuki sorumluluklar: Devletin vatandaşlara karşı hukuki sorumluluklar, vatandaşların hak ve özgürlüğüne saygı gösterme, vatandaşların insan haklarının korunması, insan haklarının ihlal edilmesini önlemeye yönelik olan hukuk yapısını oluşturmak için gereklidir.
+Sonuç olarak, Anayasa Madde 4'in belirttiği özel maddelerin değiştirilememesi, devletin bütçesinin düzenlenmesi ve kendi çıkarlarını koruma amacıyla uygulanmıştır.",0.25622775800711745,0.05734767025089606,0.15658362989323846,0,0.14285714285714288,143,45,1
+36,Qwen2.5-1.5B-Instruct,"Anayasa madde 4'e göre, anayasa değişikliği tekliflerinin sınırları nelerdir","Anayasa madde 4'e göre, anayasa değişikliği teklifleri, değiştirilemez hükümlerin değiştirilmesini içeremez. bu hüküm, anayasanın temel ilkelerinin ve devlet yapısının korunmasını güvence altına alır. anayasa değişikliği teklifleri, devletin şekli, cumhuriyetin nitelikleri ve devletin bütünlüğü ile ilgili hükümlerin değiştirilmesini öneremez.","Anayasa değişikliği teklifi, ülkenin bir anayasa değişikliği teklifi veya belirli bir düzenlemi (örneğin, yasalama kanunu) için yapılan teklif. Bu teklif, bir ülkeye yeni bir anayasa düzenlemi sunmayı amaçlamaktadır.
 
-5. Hükmetin vatandaşlara karşı hukuki sorumluluklar: Hükmetin görevlerinde kullanılan hukuki yapının tamamı, vatandaşların hak ve özgürlüğüne saygı göstermesi gerektiği anlamına gelir.
+Anayasa değişikliği teklifi'nin sınırlarının genel olarak şu şekildedir:
 
-6. İnsan haklarının ihlal edilmesinin devletin sorumluluğuna: İnsan haklarının ihlal edilmesi, insan haklarını koruyabilmek için gereken en temel hukuki yolu olarak değerlendirilebilir.
+1. Ülkede anayasa mevcut olmaması gerekiyor.
 
-7. Devletin vatandaşlara karşı hukuki sorumluluklar: Devletin vatandaşlara karşı hukuki sorumluluklar, vatandaşların hak ve özgürlüğüne saygı gösterme, vatandaşların insan haklarının korunması, insan haklarının ihlal edilmesini önlemeye yönelik olan hukuk yapısını oluşturmak için gerekl",0.18528610354223432,0.06575342465753425,0.11444141689373297,0,0.1354581673306773,197,46,1
+2. Teklifi yerine getiren yeni anayasa düzenlemi varsa ve bu düzenlemi tamamlamak için gerekli olan tüm gereksinimleri karşılamıştır.
+
+3. Teklifi yerine getiren yeni anayasa düzenlemi geçerli olmalıdır.
+
+4. Anayasa değişiklikteki bir durumda, yeni anayasa düzenlemi geçerli olmayan bir duruma gelebilir.
+
+5. Anayasa değişikliği teklifi'nin geçerli olması için, ülkenin diğer düzenlemeleri de geçerlidir.
+
+6. Ülkenin yeni anayasa düzenlemi ile ilgili diğer düzenlemelerin geçerli olması gerekmektedir.
+
+7. Yeni anayasa düzenlemi ile ülkenin diğer düzenlemeler arasında uyumluluk olmalıdır.
+
+Bu sınırlar, ülkenin yeni anayasa düzenlemini sunmak için gereksiz bir şey olmaması ve ülkenin diğer düzenlemeleri de geçerli olması gerektiğini vurguluyorlar.",0.24444444444444446,0.11194029850746269,0.1703703703703704,0,0.12290502793296088,138,38,1
+37,Qwen2.5-1.5B-Instruct,"Anayasa madde 5'e göre, devletin temel amaçları nelerdir","Anayasa madde 5'e göre, devletin temel amaçları, türk milletinin bağımsızlığını ve bütünlüğünü korumak, ülkenin bölünmezliğini sağlamak, cumhuriyeti ve demokrasiyi korumak ve atatürk milliyetçiliğine bağlı kalmaktır. devlet, bu amaçları gerçekleştirmek için anayasal düzenlemeler ve politikalar uygular. bu amaçlar, türkiye cumhuriyeti'nin temel değerlerini ve devletin yapı taşlarını koruma amacını taşır.","Devlet'in temel amaçları, genellikle anayasada belirtilen ve insan haklarına saygı göstermekle birlikte, ülkenin bütünlük ve barışını sağlamak için tasarlanmıştır. Bu amaçlar arasında şunlardır:
+
+1. Barış: İnsanların barışı sağlama ve kavgaları önleyerek ülkede herkesi karşılaştırmak ve toplumsal bağlarını güçlendirmek.
+
+2. Yolsuzluk vurulması engellenmesi: Halkın yolsuzluk ve suçu düşüncelerini vurdanma ve yolsuzluklardan koruma.
+
+3. Devletin bütünlüğü: Ülkeden başlayıp tamamen güvendiği bir yönetimi sağlamak ve tutumları düzenlemek.
+
+4. Demokratik kurallar: Halkın politiksel ve sosyal haklarını korumak ve bunu uygulamak.
+
+5. Eğitim ve bilgi: İnsanların eğitim ve bilgiye sahip olması ve bu türleri kullanarak daha iyi toplumsal düzen oluşturmak.
+
+6. Çeşitlilik ve özgürleşme: Herkese özgü ve özgür davranma yeteneğine sahip olmak ve bu türlerden korumanın önemini ortaya koymaktır.
+
+7. İnsan haklarının korunması: İnsan haklarına saygı gösterme ve bunları uygulamak.
+
+Bu amaçlar, genellikle anayasada belirlenen değerler ve ideallerle ilgilidir ve devletin temel görevlerinden biridir.",0.32740213523131667,0.12186379928315413,0.17793594306049823,0,0.20618556701030927,139,48,1
+38,Qwen2.5-1.5B-Instruct,"Anayasa madde 5, devletin görevlerini nasıl tanımlar","Anayasa madde 5, devletin görevlerini, türk milletinin bağımsızlığını ve bütünlüğünü korumak, ülkenin bölünmezliğini sağlamak, cumhuriyeti ve demokrasiyi korumak ve atatürk milliyetçiliğine bağlı kalmak olarak tanımlar. devlet, bu görevleri yerine getirmek için anayasal düzenlemeler yapar ve politikalar uygular. bu görevler, türkiye'nin temel değerlerini ve devletin yapı taşlarını koruma amacını taşır.","Anayasa Madde 5, Devletin Genel Hükümeti'nin ve Yıllık Kurumların (YK) görevleri hakkında anlatır. Bu anlatım şu şekilde yapılabilir:
+
+Devletin Genel Hükmeti'nin ve YK'ların görevleri şunlardır:
+1. Genel ihraç: Devletin genel ihraç politikalarını oluşturur.
+2. Ekonomik ihraç: Devletin ekonomik ihraç politikalarını oluşturur.
+3. Muhasebe: Devletin mülkiyeti ve finansal politikalarını yönetir.
+4. İşbirliği ve ilim: Devletin işbirliğine ve bilgiye olan ilgilerini yönetir.
+5. Tarihi ve sosyal ihraç: Devletin tarih ve sosyal ihraç politikalarını oluşturur.
+
+Bu görevlerin belirlenmesi, Anayasada ""devletin görevlerinin belirlenmesi"" hakkına sahip olduğu için yapılmıştır. Her görevin ayrıntılı bir açıklaması, genellikle devletin ilgisini etkileyen temel sorumlulukları içerir.
+
+Devletin Genel Hükmeti'nin ve YK'ların bu görevleri yerine getirmek, insan haklarının korunması, kendi yeteneklerini kullanarak yolsuzluklarla mücadele etmek ve devletin temel görevlerini yerine getirmek gibi önemli görevlerdir.",0.2677165354330709,0.10317460317460318,0.15748031496062992,0,0.2122905027932961,123,49,1
+39,Qwen2.5-1.5B-Instruct,"Anayasa madde 5'e göre, devletin vatandaşlarına karşı sorumlulukları nelerdir","Anayasa madde 5'e göre, devletin vatandaşlarına karşı sorumlulukları, insan haklarına saygılı olmak, sosyal adaleti sağlamak, refah ve huzuru artırmak, milli dayanışma ve adaleti korumaktır. devlet, bu sorumlulukları yerine getirmek için anayasal düzenlemeler yapar ve politikalar uygular. bu sorumluluklar, devletin vatandaşlarına karşı olan görevlerini ve yükümlülüklerini belirler.","Anayasa Madde 5, vatandaşların hukuki sorumluluklarını belirler ve bu sorumluluklar, vatandaşların hukuki yetkilerini ve haklarını korumaya yardımcı olur. Bu madde, devletin vatandaşlarına karşı hangi durumlarda sorumluluk verdiğini ve bunun hangi taraflardan sağlanacağını ifade eder. İşte Anayasa Madde 5'nun bazı önemli kavramları:
+
+1. Hükümetin vatandaşlarına karşı sorumlulukları:
+   - Hükümetin vatandaşlara karşı hukuki sorumlulukları vardır.
+   - Devletin vatandaşlarına karşı hukuki yetkileri vardır.
+
+2. Hükümetin vatandaşlara karşı hukuki yetkileri:
+   - Devletin vatandaşlara karşı hukuki yetkileri yoktur.
+   - Ancak, vatandaşlar için hukuki yetkileri bulunmaktadır (örneğin, maliyet yetkisi).
+
+3. Hükümetin vatandaşlara karşı hukuki sorumlulukları:
+   - Devletin vatandaşlarına karşı hukuki sorumlulukları vardır.
+   - Ancak, bu sorumluluklar genellikle devletin görevlerine ve yetkilere bırakılır.
+
+4. Hükümetin vatandaşlara karşı hukuki yetkileri:
+   - Devletin vatandaşlara karşı hukuki yetkileri yoktur.
+   - Ancak, vatandaşlar için hukuki yetkileri bulunmaktadır (örneğin, maliyet yetkisi).
+
+Bu kavramlar, vatandaşların hukuki yetkilerini ve sorumluluklarını koruma yolunda ilham veren önemli anahtar kavramlardır. Devletin vatandaşlarına karşı hangi durumlarda sorumluluk verdiğini ve bunu nasıl yapacağını belirtmek için, devletin politikaları ve hukuki düzeni üzerinde etkin bir şekilde çalışmalıdır.",0.24305555555555558,0.10489510489510491,0.16666666666666669,0,0.19323671497584544,166,46,1
